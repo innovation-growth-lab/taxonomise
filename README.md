@@ -8,18 +8,19 @@ Semantic taxonomy classification for document corpora.
 
 `taxonomise` uses embedding-based similarity matching to classify documents against hierarchical taxonomies. It provides a Python API and CLI tool for applying custom taxonomies to any text corpus.
 
+The underlying methodology for `taxonomise` was originally developed for classifying scientific paper and project abstracts as part of a [project](https://github.com/innovation-growth-lab/dsit-taxonomies) done in collaboration with the [Department for Science, Technology and Innovation](https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology).
+
 ## When to Use taxonomise
 
-**Good fit:**
-- Classifying research papers, articles, or documents against topic taxonomies
+- Classifying short documents with topic taxonomies
 - Working with hierarchical category systems (e.g., academic fields, product categories)
 - Need confidence scores to filter uncertain classifications
 - Batch processing of document collections
 
-**Not ideal for:**
-- Real-time classification (model loading adds latency)
-- Very short texts (tweets, titles alone) - sentence matching needs content
-- Taxonomies with 1000+ labels (memory scales with label count)
+**Limitations:**
+- Real-time classification can be hampered by model loading (adds latency)
+- Unsuitable for very short texts (tweets, titles alone) - sentence matching needs content
+- Memory scales with label count
 
 ## Features
 
