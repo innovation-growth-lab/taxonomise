@@ -1,8 +1,25 @@
 # taxonomise
 
+[![PyPI version](https://badge.fury.io/py/taxonomise.svg)](https://pypi.org/project/taxonomise/)
+[![Python versions](https://img.shields.io/pypi/pyversions/taxonomise)](https://pypi.org/project/taxonomise/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Semantic taxonomy classification for document corpora.
 
 `taxonomise` uses embedding-based similarity matching to classify documents against hierarchical taxonomies. It provides a Python API and CLI tool for applying custom taxonomies to any text corpus.
+
+## When to Use taxonomise
+
+**Good fit:**
+- Classifying research papers, articles, or documents against topic taxonomies
+- Working with hierarchical category systems (e.g., academic fields, product categories)
+- Need confidence scores to filter uncertain classifications
+- Batch processing of document collections
+
+**Not ideal for:**
+- Real-time classification (model loading adds latency)
+- Very short texts (tweets, titles alone) - sentence matching needs content
+- Taxonomies with 1000+ labels (memory scales with label count)
 
 ## Features
 
@@ -255,6 +272,37 @@ uv run pytest
 # Run CLI
 uv run taxonomise --help
 ```
+
+## Accuracy
+
+Tested against AI 'expert'-labelled samples (300 projects), we applied the [CWTS Research Topics](https://www.leidenmadtrics.nl/articles/an-open-approach-for-classifying-research-publications) taxonomy to research project abstracts from Gateway to Research, obtaining the following classification results:
+
+| Method            | Precision | Recall | F1    |
+|------------------|-----------|--------|-------|
+| Zero-shot favoured     | 0.765     | 0.691  | 0.726 |
+| Zero-shot        | 0.784     | 0.661  | 0.717 |
+| Maximum          | 0.645     | 0.747  | 0.692 |
+
+Note: These metrics show the best performing configuration for each approach on a limited sample in a single context. Your results may vary depending on the corpus and taxonomies used.
+
+## Limitations
+
+- **First run downloads models**: ~90MB for default embedding model
+- **Memory usage**: ~2GB RAM per 1,000 documents; GPU helps with large datasets (>10,000 documents)
+- **spaCy model required**: Auto-downloads `en_core_web_sm` (~12MB) for sentence splitting
+- **English-focused**: Default models optimized for English text
+- **Text length**: Works best with detailed descriptions; very short texts may get fewer matches
+
+## Troubleshooting
+
+**Q: "No module named 'en_core_web_sm'"**
+A: Run `python -m spacy download en_core_web_sm`
+
+**Q: Classification is slow**
+A: Try `--disable-keywords` and `--disable-sentence` for faster (but less accurate) results
+
+**Q: Low confidence scores across all documents**
+A: Check that taxonomy labels are descriptive phrases, not just IDs or codes
 
 ## License
 

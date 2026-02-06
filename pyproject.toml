@@ -3,7 +3,7 @@ name = "taxonomise"
 version = "0.1.0"
 description = "Semantic taxonomy classification for document corpora"
 readme = "README.md"
-license = { text = "MIT" }
+license = { file = "LICENSE" }
 requires-python = ">=3.10"
 authors = [
     { name = "IGL" }
