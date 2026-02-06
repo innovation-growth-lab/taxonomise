@@ -1,0 +1,336 @@
+{
+  "id": "astro",
+  "label": "Astrophysics",
+  "children": [
+    {
+      "id": "stellar",
+      "label": "Stellar Physics",
+      "children": [
+        {
+          "id": "stellar_evolution",
+          "label": "Stellar Evolution",
+          "children": [
+            {"id": "main_sequence", "label": "Main Sequence Evolution"},
+            {"id": "red_giants", "label": "Red Giant Branch"},
+            {"id": "horizontal_branch", "label": "Horizontal Branch Stars"},
+            {"id": "asymptotic_giants", "label": "Asymptotic Giant Branch"},
+            {"id": "white_dwarf_formation", "label": "White Dwarf Formation"},
+            {"id": "stellar_mass_loss", "label": "Stellar Mass Loss"}
+          ]
+        },
+        {
+          "id": "stellar_atmospheres",
+          "label": "Stellar Atmospheres",
+          "children": [
+            {"id": "spectral_classification", "label": "Spectral Classification"},
+            {"id": "chromospheres", "label": "Chromospheres and Coronae"},
+            {"id": "stellar_winds", "label": "Stellar Winds"},
+            {"id": "magnetic_fields", "label": "Stellar Magnetic Fields"},
+            {"id": "chemical_abundances", "label": "Chemical Abundances"},
+            {"id": "stellar_rotation", "label": "Stellar Rotation"}
+          ]
+        },
+        {
+          "id": "binary_stars",
+          "label": "Binary Stars",
+          "children": [
+            {"id": "eclipsing_binaries", "label": "Eclipsing Binaries"},
+            {"id": "spectroscopic_binaries", "label": "Spectroscopic Binaries"},
+            {"id": "mass_transfer", "label": "Mass Transfer Systems"},
+            {"id": "common_envelope", "label": "Common Envelope Evolution"},
+            {"id": "contact_binaries", "label": "Contact Binaries"},
+            {"id": "symbiotic_stars", "label": "Symbiotic Stars"}
+          ]
+        },
+        {
+          "id": "nucleosynthesis",
+          "label": "Stellar Nucleosynthesis",
+          "children": [
+            {"id": "hydrogen_burning", "label": "Hydrogen Burning"},
+            {"id": "helium_burning", "label": "Helium Burning"},
+            {"id": "carbon_burning", "label": "Carbon and Oxygen Burning"},
+            {"id": "s_process", "label": "Slow Neutron Capture"},
+            {"id": "r_process", "label": "Rapid Neutron Capture"},
+            {"id": "explosive_nucleosynthesis", "label": "Explosive Nucleosynthesis"}
+          ]
+        },
+        {
+          "id": "compact_objects",
+          "label": "Compact Objects",
+          "children": [
+            {"id": "white_dwarfs", "label": "White Dwarfs"},
+            {"id": "neutron_star_physics", "label": "Neutron Star Physics"},
+            {"id": "stellar_black_holes", "label": "Stellar-Mass Black Holes"},
+            {"id": "pulsars", "label": "Pulsars"},
+            {"id": "magnetars", "label": "Magnetars"},
+            {"id": "x_ray_binaries", "label": "X-Ray Binaries"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cosmology",
+      "label": "Cosmology",
+      "children": [
+        {
+          "id": "dark_matter",
+          "label": "Dark Matter",
+          "children": [
+            {"id": "wimps", "label": "Weakly Interacting Massive Particles"},
+            {"id": "axions", "label": "Axions and ALPs"},
+            {"id": "primordial_black_holes", "label": "Primordial Black Holes"},
+            {"id": "dm_halos", "label": "Dark Matter Halos"},
+            {"id": "dm_detection", "label": "Direct Detection Experiments"},
+            {"id": "dm_simulations", "label": "N-Body Simulations"}
+          ]
+        },
+        {
+          "id": "dark_energy",
+          "label": "Dark Energy",
+          "children": [
+            {"id": "cosmological_constant", "label": "Cosmological Constant"},
+            {"id": "quintessence", "label": "Quintessence Models"},
+            {"id": "modified_gravity", "label": "Modified Gravity Theories"},
+            {"id": "equation_of_state", "label": "Equation of State"},
+            {"id": "hubble_tension", "label": "Hubble Tension"},
+            {"id": "accelerated_expansion", "label": "Accelerated Expansion"}
+          ]
+        },
+        {
+          "id": "cmb",
+          "label": "Cosmic Microwave Background",
+          "children": [
+            {"id": "cmb_anisotropies", "label": "Temperature Anisotropies"},
+            {"id": "cmb_polarization", "label": "CMB Polarization"},
+            {"id": "cmb_spectral_distortions", "label": "Spectral Distortions"},
+            {"id": "recombination", "label": "Recombination Era"},
+            {"id": "baryon_acoustic", "label": "Baryon Acoustic Oscillations"},
+            {"id": "sz_effect", "label": "Sunyaev-Zeldovich Effect"}
+          ]
+        },
+        {
+          "id": "large_scale_structure",
+          "label": "Large-Scale Structure",
+          "children": [
+            {"id": "galaxy_clustering", "label": "Galaxy Clustering"},
+            {"id": "cosmic_web", "label": "Cosmic Web"},
+            {"id": "voids", "label": "Cosmic Voids"},
+            {"id": "superclusters", "label": "Superclusters"},
+            {"id": "weak_lensing", "label": "Weak Gravitational Lensing"},
+            {"id": "redshift_surveys", "label": "Redshift Surveys"}
+          ]
+        },
+        {
+          "id": "early_universe",
+          "label": "Early Universe",
+          "children": [
+            {"id": "inflation", "label": "Cosmic Inflation"},
+            {"id": "baryogenesis", "label": "Baryogenesis"},
+            {"id": "big_bang_nucleosynthesis", "label": "Big Bang Nucleosynthesis"},
+            {"id": "reionization", "label": "Epoch of Reionization"},
+            {"id": "first_stars", "label": "First Stars"},
+            {"id": "gravitational_waves_cosmo", "label": "Primordial Gravitational Waves"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "planetary",
+      "label": "Planetary Science",
+      "children": [
+        {
+          "id": "exoplanets",
+          "label": "Exoplanets",
+          "children": [
+            {"id": "transit_method", "label": "Transit Photometry"},
+            {"id": "radial_velocity", "label": "Radial Velocity Method"},
+            {"id": "direct_imaging", "label": "Direct Imaging"},
+            {"id": "hot_jupiters", "label": "Hot Jupiters"},
+            {"id": "super_earths", "label": "Super-Earths"},
+            {"id": "habitable_zone", "label": "Habitable Zone Planets"}
+          ]
+        },
+        {
+          "id": "solar_system",
+          "label": "Solar System Bodies",
+          "children": [
+            {"id": "terrestrial_planets", "label": "Terrestrial Planets"},
+            {"id": "gas_giants", "label": "Gas Giants"},
+            {"id": "ice_giants", "label": "Ice Giants"},
+            {"id": "asteroids", "label": "Asteroids"},
+            {"id": "comets", "label": "Comets"},
+            {"id": "kuiper_belt", "label": "Kuiper Belt Objects"}
+          ]
+        },
+        {
+          "id": "planetary_atmospheres",
+          "label": "Planetary Atmospheres",
+          "children": [
+            {"id": "atmospheric_dynamics", "label": "Atmospheric Dynamics"},
+            {"id": "atmospheric_chemistry", "label": "Atmospheric Chemistry"},
+            {"id": "clouds_hazes", "label": "Clouds and Hazes"},
+            {"id": "atmospheric_escape", "label": "Atmospheric Escape"},
+            {"id": "transmission_spectroscopy", "label": "Transmission Spectroscopy"},
+            {"id": "thermal_emission", "label": "Thermal Emission Spectra"}
+          ]
+        },
+        {
+          "id": "planet_formation",
+          "label": "Planetary Formation",
+          "children": [
+            {"id": "protoplanetary_disks", "label": "Protoplanetary Disks"},
+            {"id": "core_accretion", "label": "Core Accretion Model"},
+            {"id": "disk_instability", "label": "Gravitational Instability"},
+            {"id": "migration", "label": "Planetary Migration"},
+            {"id": "debris_disks", "label": "Debris Disks"},
+            {"id": "planet_interactions", "label": "Planet-Planet Interactions"}
+          ]
+        },
+        {
+          "id": "astrobiology",
+          "label": "Astrobiology",
+          "children": [
+            {"id": "biosignatures", "label": "Biosignatures"},
+            {"id": "prebiotic_chemistry", "label": "Prebiotic Chemistry"},
+            {"id": "extremophiles", "label": "Extremophile Analogs"},
+            {"id": "seti", "label": "Search for Extraterrestrial Intelligence"},
+            {"id": "ocean_worlds", "label": "Ocean Worlds"},
+            {"id": "mars_habitability", "label": "Mars Habitability"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "galactic",
+      "label": "Galactic Astrophysics",
+      "children": [
+        {
+          "id": "milky_way",
+          "label": "Milky Way Structure",
+          "children": [
+            {"id": "galactic_disk", "label": "Galactic Disk"},
+            {"id": "galactic_bulge", "label": "Galactic Bulge"},
+            {"id": "galactic_halo", "label": "Galactic Halo"},
+            {"id": "spiral_arms", "label": "Spiral Arm Structure"},
+            {"id": "galactic_center", "label": "Galactic Center"},
+            {"id": "stellar_streams", "label": "Stellar Streams"}
+          ]
+        },
+        {
+          "id": "star_formation",
+          "label": "Star Formation",
+          "children": [
+            {"id": "molecular_clouds", "label": "Molecular Clouds"},
+            {"id": "cloud_collapse", "label": "Cloud Collapse"},
+            {"id": "protostellar_evolution", "label": "Protostellar Evolution"},
+            {"id": "imf", "label": "Initial Mass Function"},
+            {"id": "star_clusters", "label": "Star Cluster Formation"},
+            {"id": "triggered_sf", "label": "Triggered Star Formation"}
+          ]
+        },
+        {
+          "id": "ism",
+          "label": "Interstellar Medium",
+          "children": [
+            {"id": "hii_regions", "label": "HII Regions"},
+            {"id": "molecular_gas", "label": "Molecular Gas"},
+            {"id": "dust", "label": "Interstellar Dust"},
+            {"id": "cosmic_rays_ism", "label": "Cosmic Ray Interactions"},
+            {"id": "supernova_remnants", "label": "Supernova Remnants"},
+            {"id": "magnetic_fields_ism", "label": "Interstellar Magnetic Fields"}
+          ]
+        },
+        {
+          "id": "galaxy_evolution",
+          "label": "Galaxy Evolution",
+          "children": [
+            {"id": "galaxy_mergers", "label": "Galaxy Mergers"},
+            {"id": "quenching", "label": "Star Formation Quenching"},
+            {"id": "morphological_transformation", "label": "Morphological Transformation"},
+            {"id": "chemical_evolution", "label": "Chemical Evolution"},
+            {"id": "mass_metallicity", "label": "Mass-Metallicity Relation"},
+            {"id": "high_z_galaxies", "label": "High-Redshift Galaxies"}
+          ]
+        },
+        {
+          "id": "agn",
+          "label": "Active Galactic Nuclei",
+          "children": [
+            {"id": "quasars", "label": "Quasars"},
+            {"id": "seyfert_galaxies", "label": "Seyfert Galaxies"},
+            {"id": "blazars", "label": "Blazars"},
+            {"id": "agn_jets", "label": "Relativistic Jets"},
+            {"id": "agn_feedback", "label": "AGN Feedback"},
+            {"id": "accretion_disks", "label": "Accretion Disk Physics"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "high_energy",
+      "label": "High-Energy Astrophysics",
+      "children": [
+        {
+          "id": "black_holes",
+          "label": "Black Holes",
+          "children": [
+            {"id": "bh_formation", "label": "Black Hole Formation"},
+            {"id": "bh_mergers", "label": "Black Hole Mergers"},
+            {"id": "supermassive_bh", "label": "Supermassive Black Holes"},
+            {"id": "intermediate_mass_bh", "label": "Intermediate-Mass Black Holes"},
+            {"id": "bh_shadows", "label": "Black Hole Shadows"},
+            {"id": "hawking_radiation", "label": "Hawking Radiation"}
+          ]
+        },
+        {
+          "id": "neutron_stars",
+          "label": "Neutron Stars",
+          "children": [
+            {"id": "ns_equation_state", "label": "Equation of State"},
+            {"id": "ns_cooling", "label": "Neutron Star Cooling"},
+            {"id": "ns_mergers", "label": "Neutron Star Mergers"},
+            {"id": "millisecond_pulsars", "label": "Millisecond Pulsars"},
+            {"id": "pulsar_timing", "label": "Pulsar Timing Arrays"},
+            {"id": "glitches", "label": "Pulsar Glitches"}
+          ]
+        },
+        {
+          "id": "grb",
+          "label": "Gamma-Ray Bursts",
+          "children": [
+            {"id": "short_grb", "label": "Short Gamma-Ray Bursts"},
+            {"id": "long_grb", "label": "Long Gamma-Ray Bursts"},
+            {"id": "grb_afterglows", "label": "GRB Afterglows"},
+            {"id": "grb_progenitors", "label": "GRB Progenitors"},
+            {"id": "grb_jets", "label": "GRB Jet Physics"},
+            {"id": "kilonova", "label": "Kilonovae"}
+          ]
+        },
+        {
+          "id": "cosmic_rays",
+          "label": "Cosmic Rays",
+          "children": [
+            {"id": "cr_acceleration", "label": "Cosmic Ray Acceleration"},
+            {"id": "cr_propagation", "label": "Cosmic Ray Propagation"},
+            {"id": "uhecr", "label": "Ultra-High Energy Cosmic Rays"},
+            {"id": "cr_composition", "label": "Cosmic Ray Composition"},
+            {"id": "cr_anisotropy", "label": "Cosmic Ray Anisotropy"},
+            {"id": "air_showers", "label": "Extensive Air Showers"}
+          ]
+        },
+        {
+          "id": "xray_astronomy",
+          "label": "X-Ray Astronomy",
+          "children": [
+            {"id": "xray_binaries", "label": "X-Ray Binary Systems"},
+            {"id": "xray_clusters", "label": "Galaxy Cluster X-Ray Emission"},
+            {"id": "xray_background", "label": "Cosmic X-Ray Background"},
+            {"id": "xray_transients", "label": "X-Ray Transients"},
+            {"id": "xray_spectroscopy", "label": "X-Ray Spectroscopy"},
+            {"id": "xray_timing", "label": "X-Ray Timing"}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "root",
+  "label": "Science",
+  "description": "Top-level science category",
+  "children": [
+    {
+      "id": "cs",
+      "label": "Computer Science",
+      "description": "Study of computation and information",
+      "children": [
+        {
+          "id": "ai",
+          "label": "Artificial Intelligence",
+          "description": "Machines that can perform tasks requiring human intelligence",
+          "children": [
+            {
+              "id": "ml",
+              "label": "Machine Learning",
+              "description": "Systems that learn from data"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics",
+      "label": "Physics",
+      "description": "Study of matter and energy",
+      "children": [
+        {
+          "id": "quantum",
+          "label": "Quantum Physics",
+          "description": "Study of quantum mechanical phenomena"
+        }
+      ]
+    },
+    {
+      "id": "env",
+      "label": "Environmental Science",
+      "description": "Study of the environment",
+      "children": [
+        {
+          "id": "climate",
+          "label": "Climate Science",
+          "description": "Study of climate patterns and change"
+        }
+      ]
+    }
+  ]
+}

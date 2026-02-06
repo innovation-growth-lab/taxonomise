@@ -1,0 +1,891 @@
+document_id,taxonomy_label_id,taxonomy_label,relevance_score,confidence_bin,similarity_score_global,similarity_score_sent,similarity_score_key,global_bin,local_bin,num_matching_sentences,num_sentences
+astro_001,red_giants,Astrophysics > Stellar Physics > Stellar Evolution > Red Giant Branch,0.5089778244495392,high,0.5689080357551575,0.6766108274459839,0.0,high,high,1,2
+astro_001,high_z_galaxies,Astrophysics > Galactic Astrophysics > Galaxy Evolution > High-Redshift Galaxies,0.27128684520721436,low,0.0,0.5425736904144287,0.0,low,low,1,2
+astro_001,asymptotic_giants,Astrophysics > Stellar Physics > Stellar Evolution > Asymptotic Giant Branch,0.2690845727920532,low,0.0,0.5381691455841064,0.0,low,low,1,2
+astro_001,spectroscopic_binaries,Astrophysics > Stellar Physics > Binary Stars > Spectroscopic Binaries,0.2472974807024002,low,0.0,0.4945949614048004,0.0,low,low,1,2
+astro_001,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.3946445852518081,medium,0.501787006855011,0.48821696639060974,0.0,medium,medium,1,2
+astro_001,horizontal_branch,Astrophysics > Stellar Physics > Stellar Evolution > Horizontal Branch Stars,0.24379412829875946,low,0.0,0.4875882565975189,0.0,low,low,1,2
+astro_001,redshift_surveys,Astrophysics > Cosmology > Large-Scale Structure > Redshift Surveys,0.243495911359787,low,0.0,0.486991822719574,0.0,low,low,1,2
+astro_001,galactic,Astrophysics > Galactic Astrophysics,0.2400793433189392,low,0.0,0.4801586866378784,0.0,low,low,1,2
+astro_001,galactic_bulge,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Bulge,0.23526564240455627,low,0.0,0.47053128480911255,0.0,low,low,1,2
+astro_001,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.2332312911748886,low,0.0,0.4664625823497772,0.0,low,low,1,2
+astro_001,chemical_abundances,Astrophysics > Stellar Physics > Stellar Atmospheres > Chemical Abundances,0.25974491238594055,low,0.0,0.5194898247718811,0.0,low,low,1,2
+astro_002,super_earths,Astrophysics > Planetary Science > Exoplanets > Super-Earths,0.47556723356246944,high,0.5768304467201233,0.605036199092865,0.0,high,high,1,2
+astro_002,habitable_zone,Astrophysics > Planetary Science > Exoplanets > Habitable Zone Planets,0.43745077848434444,high,0.5318742394447327,0.5557770133018494,0.0,high,high,1,2
+astro_002,exoplanets,Astrophysics > Planetary Science > Exoplanets,0.41716652512550356,medium,0.5227183103561401,0.520702064037323,0.0,medium,medium,1,2
+astro_002,hot_jupiters,Astrophysics > Planetary Science > Exoplanets > Hot Jupiters,0.4022999823093414,medium,0.5066185593605042,0.5006288290023804,0.0,medium,medium,1,2
+astro_002,transit_method,Astrophysics > Planetary Science > Exoplanets > Transit Photometry,0.3826374441385269,low,0.4938574731349945,0.46896040439605713,0.0,medium,low,1,2
+astro_002,transmission_spectroscopy,Astrophysics > Planetary Science > Planetary Atmospheres > Transmission Spectroscopy,0.47800210416316985,high,0.49188336730003357,0.6608741879463196,0.0,high,high,1,2
+astro_002,planetary_atmospheres,Astrophysics > Planetary Science > Planetary Atmospheres,0.430603438615799,medium,0.49848484992980957,0.5621159672737122,0.0,high,medium,1,2
+astro_002,atmospheric_escape,Astrophysics > Planetary Science > Planetary Atmospheres > Atmospheric Escape,0.2739351987838745,low,0.0,0.547870397567749,0.0,low,low,1,2
+astro_002,thermal_emission,Astrophysics > Planetary Science > Planetary Atmospheres > Thermal Emission Spectra,0.2738601863384247,low,0.0,0.5477203726768494,0.0,low,low,1,2
+astro_002,atmospheric_dynamics,Astrophysics > Planetary Science > Planetary Atmospheres > Atmospheric Dynamics,0.2701598107814789,low,0.0,0.5403196215629578,0.0,low,low,1,2
+astro_002,atmospheric_chemistry,Astrophysics > Planetary Science > Planetary Atmospheres > Atmospheric Chemistry,0.2672090232372284,low,0.0,0.5344180464744568,0.0,low,low,1,2
+astro_002,clouds_hazes,Astrophysics > Planetary Science > Planetary Atmospheres > Clouds and Hazes,0.2405347228050232,low,0.0,0.4810694456100464,0.0,low,low,1,2
+astro_003,dm_halos,Astrophysics > Cosmology > Dark Matter > Dark Matter Halos,0.6085705935955048,high,0.7432816028594971,0.7711722254753113,0.0,high,high,2,2
+astro_003,dm_simulations,Astrophysics > Cosmology > Dark Matter > N-Body Simulations,0.58642498254776,high,0.6988583207130432,0.7535349726676941,0.0,high,high,2,2
+astro_003,dark_matter,Astrophysics > Cosmology > Dark Matter,0.5228012204170227,high,0.6457874178886414,0.6581299901008606,0.0,high,high,2,2
+astro_003,wimps,Astrophysics > Cosmology > Dark Matter > Weakly Interacting Massive Particles,0.5173556208610535,medium,0.6384885311126709,0.6516181230545044,0.0,high,medium,2,2
+astro_003,dark_energy,Astrophysics > Cosmology > Dark Energy,0.45396800041198726,medium,0.5569198131561279,0.5737841129302979,0.0,high,medium,2,2
+astro_003,primordial_black_holes,Astrophysics > Cosmology > Dark Matter > Primordial Black Holes,0.4422716915607452,low,0.5392699837684631,0.5609813928604126,0.0,high,low,2,2
+astro_003,equation_of_state,Astrophysics > Cosmology > Dark Energy > Equation of State,0.4324161410331726,low,0.5216166377067566,0.5518622994422913,0.0,high,low,1,2
+astro_003,dm_detection,Astrophysics > Cosmology > Dark Matter > Direct Detection Experiments,0.43656945824623106,low,0.5437533259391785,0.5468869209289551,0.0,high,low,2,2
+astro_003,galactic_halo,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Halo,0.43125889301300047,low,0.5302647948265076,0.5443589091300964,0.0,high,low,2,2
+astro_003,cosmological_constant,Astrophysics > Cosmology > Dark Energy > Cosmological Constant,0.4315821409225464,low,0.5339834690093994,0.5427742004394531,0.0,high,low,1,2
+astro_003,large_scale_structure,Astrophysics > Cosmology > Large-Scale Structure,0.22914659976959229,low,0.0,0.45829319953918457,0.0,low,low,1,2
+astro_004,grb_afterglows,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts > GRB Afterglows,0.5151476323604584,high,0.6286857724189758,0.6530838012695312,0.0,high,high,1,1
+astro_004,grb,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts,0.4890414834022522,medium,0.6145830154418945,0.6093331575393677,0.0,high,medium,1,1
+astro_004,grb_progenitors,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts > GRB Progenitors,0.45611276626586916,low,0.5637921690940857,0.5739502310752869,0.0,high,low,1,1
+astro_004,xray_transients,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Transients,0.45620187520980837,low,0.5876447558403015,0.5598168969154358,0.0,high,low,1,1
+astro_004,xray_timing,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Timing,0.43802595138549805,low,0.532577633857727,0.5565053224563599,0.0,high,low,1,1
+astro_004,xray_astronomy,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy,0.43657296895980835,low,0.5293896794319153,0.5555121302604675,0.0,high,low,1,1
+astro_004,grb_jets,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts > GRB Jet Physics,0.4237459659576416,low,0.5530245304107666,0.5156772136688232,0.0,high,low,1,1
+astro_004,long_grb,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts > Long Gamma-Ray Bursts,0.4102899551391601,low,0.5089905261993408,0.5151855945587158,0.0,medium,low,1,1
+astro_004,short_grb,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts > Short Gamma-Ray Bursts,0.4013711333274841,low,0.5032824873924255,0.5007727742195129,0.0,medium,low,1,1
+astro_004,xray_background,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > Cosmic X-Ray Background,0.3930133581161499,low,0.4831661283969879,0.49612703919410706,0.0,medium,low,1,1
+astro_005,direct_imaging,Astrophysics > Planetary Science > Exoplanets > Direct Imaging,0.5145420908927918,high,0.6284550428390503,0.6520111560821533,0.0,high,high,1,2
+astro_005,hot_jupiters,Astrophysics > Planetary Science > Exoplanets > Hot Jupiters,0.4170998394489288,medium,0.511536717414856,0.5272776484489441,0.0,medium,medium,1,2
+astro_005,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.4191421329975128,medium,0.5262203216552734,0.5225520730018616,0.0,medium,medium,1,2
+astro_005,exoplanets,Astrophysics > Planetary Science > Exoplanets,0.42171897888183596,medium,0.5361934304237366,0.5217218995094299,0.0,medium,medium,2,2
+astro_005,transit_method,Astrophysics > Planetary Science > Exoplanets > Transit Photometry,0.40427843630313876,medium,0.4842087924480438,0.5180315971374512,0.0,medium,medium,1,2
+astro_005,white_dwarfs,Astrophysics > Stellar Physics > Compact Objects > White Dwarfs,0.381792414188385,medium,0.47315365076065063,0.47969263792037964,0.0,medium,medium,1,2
+astro_005,super_earths,Astrophysics > Planetary Science > Exoplanets > Super-Earths,0.37512125372886657,medium,0.47960078716278076,0.4624820351600647,0.0,medium,medium,1,2
+astro_005,asymptotic_giants,Astrophysics > Stellar Physics > Stellar Evolution > Asymptotic Giant Branch,0.47771295309066775,high,0.4772891402244568,0.6690524220466614,0.0,high,high,1,2
+astro_005,red_giants,Astrophysics > Stellar Physics > Stellar Evolution > Red Giant Branch,0.2761114537715912,low,0.0,0.5522229075431824,0.0,low,low,1,2
+astro_005,habitable_zone,Astrophysics > Planetary Science > Exoplanets > Habitable Zone Planets,0.2541391849517822,low,0.0,0.5082783699035645,0.0,low,low,1,2
+astro_005,horizontal_branch,Astrophysics > Stellar Physics > Stellar Evolution > Horizontal Branch Stars,0.25220876932144165,low,0.0,0.5044175386428833,0.0,low,low,1,2
+astro_005,gas_giants,Astrophysics > Planetary Science > Solar System Bodies > Gas Giants,0.25139737129211426,low,0.0,0.5027947425842285,0.0,low,low,1,2
+astro_005,ice_giants,Astrophysics > Planetary Science > Solar System Bodies > Ice Giants,0.24990923702716827,low,0.0,0.49981847405433655,0.0,low,low,1,2
+astro_005,main_sequence,Astrophysics > Stellar Physics > Stellar Evolution > Main Sequence Evolution,0.24372459948062897,low,0.0,0.48744919896125793,0.0,low,low,1,2
+astro_005,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.23757383227348328,low,0.0,0.47514766454696655,0.0,low,low,1,2
+astro_005,planet_interactions,Astrophysics > Planetary Science > Planetary Formation > Planet-Planet Interactions,0.23255620896816254,low,0.0,0.4651124179363251,0.0,low,low,1,2
+astro_006,galactic_halo,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Halo,0.4490348160266876,medium,0.5698354244232178,0.5561683773994446,0.0,high,medium,1,2
+astro_006,mass_metallicity,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Mass-Metallicity Relation,0.4424139499664307,medium,0.5522699952125549,0.5534659028053284,0.0,high,medium,1,2
+astro_006,stellar,Astrophysics > Stellar Physics,0.26106885075569153,low,0.0,0.5221377015113831,0.0,low,low,1,2
+astro_006,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.41348279714584346,medium,0.5202605724334717,0.514809250831604,0.0,medium,medium,2,2
+astro_006,stellar_streams,Astrophysics > Galactic Astrophysics > Milky Way Structure > Stellar Streams,0.5023752689361572,high,0.565535306930542,0.6654293537139893,0.0,high,high,2,2
+astro_006,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.4124959588050842,medium,0.5232370495796204,0.5110496878623962,0.0,medium,medium,2,2
+astro_006,main_sequence,Astrophysics > Stellar Physics > Stellar Evolution > Main Sequence Evolution,0.40129987299442293,low,0.5177896022796631,0.491925984621048,0.0,medium,low,2,2
+astro_006,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.23936420679092407,low,0.0,0.47872841358184814,0.0,low,low,1,2
+astro_006,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.23600290715694427,low,0.0,0.47200581431388855,0.0,low,low,1,2
+astro_006,molecular_clouds,Astrophysics > Galactic Astrophysics > Star Formation > Molecular Clouds,0.23363150656223297,low,0.0,0.46726301312446594,0.0,low,low,1,2
+astro_006,milky_way,Astrophysics > Galactic Astrophysics > Milky Way Structure,0.4273996353149414,medium,0.5455538630485535,0.5274669528007507,0.0,high,medium,1,2
+astro_006,galaxy_evolution,Astrophysics > Galactic Astrophysics > Galaxy Evolution,0.4187274813652039,medium,0.5223681330680847,0.5240340828895569,0.0,medium,medium,1,2
+astro_006,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.4066888004541397,medium,0.4983842074871063,0.5143470764160156,0.0,medium,medium,1,2
+astro_006,spiral_arms,Astrophysics > Galactic Astrophysics > Milky Way Structure > Spiral Arm Structure,0.2513525187969208,low,0.0,0.5027050375938416,0.0,low,low,1,2
+astro_006,protostellar_evolution,Astrophysics > Galactic Astrophysics > Star Formation > Protostellar Evolution,0.2465747743844986,low,0.0,0.4931495487689972,0.0,low,low,1,2
+astro_006,galaxy_mergers,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Galaxy Mergers,0.23872539401054382,low,0.0,0.47745078802108765,0.0,low,low,1,2
+astro_007,pulsar_timing,Astrophysics > High-Energy Astrophysics > Neutron Stars > Pulsar Timing Arrays,0.5348623514175415,high,0.7017644643783569,0.6486660242080688,0.0,high,high,2,2
+astro_007,millisecond_pulsars,Astrophysics > High-Energy Astrophysics > Neutron Stars > Millisecond Pulsars,0.5262389838695526,high,0.6698630452156067,0.6505601406097412,0.0,high,high,2,2
+astro_007,pulsars,Astrophysics > Stellar Physics > Compact Objects > Pulsars,0.4699546039104462,medium,0.5331884622573853,0.6199961304664612,0.0,high,medium,1,2
+astro_007,glitches,Astrophysics > High-Energy Astrophysics > Neutron Stars > Pulsar Glitches,0.4738697528839111,medium,0.5658637881278992,0.6082212328910828,0.0,high,medium,1,2
+astro_007,neutron_star_physics,Astrophysics > Stellar Physics > Compact Objects > Neutron Star Physics,0.29647427797317505,low,0.0,0.5929485559463501,0.0,low,low,1,2
+astro_007,neutron_stars,Astrophysics > High-Energy Astrophysics > Neutron Stars,0.2807375192642212,low,0.0,0.5614750385284424,0.0,low,low,1,2
+astro_007,ns_equation_state,Astrophysics > High-Energy Astrophysics > Neutron Stars > Equation of State,0.2805701792240143,low,0.0,0.5611403584480286,0.0,low,low,1,2
+astro_007,s_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Slow Neutron Capture,0.2655194103717804,low,0.0,0.5310388207435608,0.0,low,low,1,2
+astro_007,r_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Rapid Neutron Capture,0.26173821091651917,low,0.0,0.5234764218330383,0.0,low,low,1,2
+astro_007,ns_cooling,Astrophysics > High-Energy Astrophysics > Neutron Stars > Neutron Star Cooling,0.24193896353244781,low,0.0,0.48387792706489563,0.0,low,low,1,2
+astro_008,protoplanetary_disks,Astrophysics > Planetary Science > Planetary Formation > Protoplanetary Disks,0.48863024115562437,high,0.6204430460929871,0.6049946546554565,0.0,high,high,2,2
+astro_008,debris_disks,Astrophysics > Planetary Science > Planetary Formation > Debris Disks,0.4198233425617218,medium,0.5445777177810669,0.5129000544548035,0.0,medium,medium,2,2
+astro_008,direct_imaging,Astrophysics > Planetary Science > Exoplanets > Direct Imaging,0.38993837535381315,low,0.5149124264717102,0.4709292948246002,0.0,medium,low,1,2
+astro_008,planet_formation,Astrophysics > Planetary Science > Planetary Formation,0.40442848205566406,low,0.5035620927810669,0.506719708442688,0.0,medium,low,2,2
+astro_008,hot_jupiters,Astrophysics > Planetary Science > Exoplanets > Hot Jupiters,0.43790813684463503,medium,0.5237181782722473,0.5615853667259216,0.0,high,medium,1,2
+astro_008,exoplanets,Astrophysics > Planetary Science > Exoplanets,0.4172351539134979,medium,0.49979305267333984,0.5345944762229919,0.0,medium,medium,1,2
+astro_008,gas_giants,Astrophysics > Planetary Science > Solar System Bodies > Gas Giants,0.25822898745536804,low,0.0,0.5164579749107361,0.0,low,low,1,2
+astro_008,solar_system,Astrophysics > Planetary Science > Solar System Bodies,0.4076821625232696,medium,0.5013304352760315,0.5145660638809204,0.0,medium,medium,1,2
+astro_008,planet_interactions,Astrophysics > Planetary Science > Planetary Formation > Planet-Planet Interactions,0.3944144308567047,low,0.4732440114021301,0.5048824548721313,0.0,medium,low,1,2
+astro_008,super_earths,Astrophysics > Planetary Science > Exoplanets > Super-Earths,0.24655944108963013,low,0.0,0.49311888217926025,0.0,low,low,1,2
+astro_008,habitable_zone,Astrophysics > Planetary Science > Exoplanets > Habitable Zone Planets,0.38609815537929537,low,0.47475743293762207,0.48734185099601746,0.0,medium,low,1,2
+astro_009,blazars,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Blazars,0.40011883676052096,medium,0.5193339586257935,0.4886372983455658,0.0,medium,medium,2,2
+astro_009,grb,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts,0.37236599922180175,low,0.4719231128692627,0.4615781307220459,0.0,low,medium,1,2
+astro_009,agn_jets,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Relativistic Jets,0.44419621825218203,high,0.5169134140014648,0.5782443881034851,0.0,high,high,1,2
+astro_009,high_energy,Astrophysics > High-Energy Astrophysics,0.25504177808761597,low,0.0,0.5100835561752319,0.0,low,low,1,2
+astro_009,sz_effect,Astrophysics > Cosmology > Cosmic Microwave Background > Sunyaev-Zeldovich Effect,0.40126517713069915,medium,0.4957493245601654,0.5050807595252991,0.0,medium,medium,1,2
+astro_009,agn,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei,0.25094178318977356,low,0.0,0.5018835663795471,0.0,low,low,1,2
+astro_009,cosmic_rays_ism,Astrophysics > Galactic Astrophysics > Interstellar Medium > Cosmic Ray Interactions,0.23843102157115936,low,0.0,0.4768620431423187,0.0,low,low,1,2
+astro_009,galactic,Astrophysics > Galactic Astrophysics,0.2346162497997284,low,0.0,0.4692324995994568,0.0,low,low,1,2
+astro_009,quasars,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Quasars,0.2335408329963684,low,0.0,0.4670816659927368,0.0,low,low,1,2
+astro_009,seyfert_galaxies,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Seyfert Galaxies,0.22926822304725647,low,0.0,0.45853644609451294,0.0,low,low,1,2
+astro_010,baryon_acoustic,Astrophysics > Cosmology > Cosmic Microwave Background > Baryon Acoustic Oscillations,0.508027869462967,high,0.6271896362304688,0.6397419571876526,0.0,high,high,1,2
+astro_010,cmb_polarization,Astrophysics > Cosmology > Cosmic Microwave Background > CMB Polarization,0.4632386028766632,medium,0.5554492473602295,0.5932076573371887,0.0,high,medium,1,2
+astro_010,cmb_anisotropies,Astrophysics > Cosmology > Cosmic Microwave Background > Temperature Anisotropies,0.4356284201145172,medium,0.5335129499435425,0.5511490702629089,0.0,high,medium,1,2
+astro_010,cmb,Astrophysics > Cosmology > Cosmic Microwave Background,0.42803764939308164,medium,0.5212650895118713,0.5433162450790405,0.0,high,medium,1,2
+astro_010,cosmology,Astrophysics > Cosmology,0.3927557826042175,low,0.4918978810310364,0.49037283658981323,0.0,medium,low,1,2
+astro_010,cmb_spectral_distortions,Astrophysics > Cosmology > Cosmic Microwave Background > Spectral Distortions,0.38351587355136874,low,0.47221454977989197,0.48370301723480225,0.0,medium,low,1,2
+astro_010,hubble_tension,Astrophysics > Cosmology > Dark Energy > Hubble Tension,0.42156797647476196,low,0.5506405234336853,0.5127516388893127,0.0,medium,low,2,2
+astro_010,cosmological_constant,Astrophysics > Cosmology > Dark Energy > Cosmological Constant,0.3775073975324631,low,0.47719302773475647,0.46869897842407227,0.0,medium,low,1,2
+astro_010,recombination,Astrophysics > Cosmology > Cosmic Microwave Background > Recombination Era,0.23387762904167175,low,0.0,0.4677552580833435,0.0,low,low,1,2
+astro_011,magnetic_fields,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Magnetic Fields,0.2595057189464569,low,0.0,0.5190114378929138,0.0,low,high,1,1
+astro_011,magnetars,Astrophysics > Stellar Physics > Compact Objects > Magnetars,0.2426471710205078,low,0.0,0.4852943420410156,0.0,low,medium,1,1
+astro_011,spectroscopic_binaries,Astrophysics > Stellar Physics > Binary Stars > Spectroscopic Binaries,0.23728539049625397,low,0.0,0.47457078099250793,0.0,low,low,1,1
+astro_011,magnetic_fields_ism,Astrophysics > Galactic Astrophysics > Interstellar Medium > Interstellar Magnetic Fields,0.23610013723373413,low,0.0,0.47220027446746826,0.0,low,low,1,1
+astro_011,stellar,Astrophysics > Stellar Physics,0.23482930660247803,low,0.0,0.46965861320495605,0.0,low,low,1,1
+astro_011,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.23201505839824677,low,0.0,0.46403011679649353,0.0,low,low,1,1
+astro_011,binary_stars,Astrophysics > Stellar Physics > Binary Stars,0.22927221655845642,low,0.0,0.45854443311691284,0.0,low,low,1,1
+astro_012,xray_clusters,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > Galaxy Cluster X-Ray Emission,0.48865849971771236,high,0.605491042137146,0.6140223741531372,0.0,high,high,1,1
+astro_012,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.49064272046089175,high,0.61699378490448,0.6110891699790955,0.0,high,high,1,1
+astro_012,galaxy_mergers,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Galaxy Mergers,0.47047828435897826,high,0.585685133934021,0.589545488357544,0.0,high,high,1,1
+astro_012,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.4534658014774322,medium,0.5620315074920654,0.5697126984596252,0.0,high,medium,1,1
+astro_012,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.44979220628738403,medium,0.5620381236076355,0.5623615384101868,0.0,high,medium,1,1
+astro_012,cloud_collapse,Astrophysics > Galactic Astrophysics > Star Formation > Cloud Collapse,0.4377884864807129,low,0.5679363012313843,0.5348151922225952,0.0,high,low,1,1
+astro_012,supernova_remnants,Astrophysics > Galactic Astrophysics > Interstellar Medium > Supernova Remnants,0.2567010223865509,low,0.0,0.5134020447731018,0.0,low,low,1,1
+astro_012,triggered_sf,Astrophysics > Galactic Astrophysics > Star Formation > Triggered Star Formation,0.4117078721523285,low,0.5294706225395203,0.5057333707809448,0.0,medium,low,1,1
+astro_012,galactic,Astrophysics > Galactic Astrophysics,0.25103697180747986,low,0.0,0.5020739436149597,0.0,low,low,1,1
+astro_012,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.40326306223869324,low,0.5081820487976074,0.501616895198822,0.0,medium,low,1,1
+astro_013,redshift_surveys,Astrophysics > Cosmology > Large-Scale Structure > Redshift Surveys,0.4217773377895355,medium,0.5086609721183777,0.5383580923080444,0.0,medium,high,1,2
+astro_013,reionization,Astrophysics > Cosmology > Early Universe > Epoch of Reionization,0.43003053069114683,high,0.5444730520248413,0.5333772301673889,0.0,high,high,1,2
+astro_013,recombination,Astrophysics > Cosmology > Cosmic Microwave Background > Recombination Era,0.4065775394439697,medium,0.47871434688568115,0.5259264707565308,0.0,medium,medium,1,2
+astro_013,high_z_galaxies,Astrophysics > Galactic Astrophysics > Galaxy Evolution > High-Redshift Galaxies,0.3869568854570389,low,0.5092671513557434,0.4683534801006317,0.0,medium,low,2,2
+astro_013,hydrogen_burning,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Hydrogen Burning,0.24517761170864105,low,0.0,0.4903552234172821,0.0,low,low,1,2
+astro_013,agn,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei,0.2354646474123001,low,0.0,0.4709292948246002,0.0,low,low,1,2
+astro_014,gravitational_waves_cosmo,Astrophysics > Cosmology > Early Universe > Primordial Gravitational Waves,0.4191339910030365,medium,0.5231818556785583,0.524358868598938,0.0,medium,high,1,2
+astro_014,bh_mergers,Astrophysics > High-Energy Astrophysics > Black Holes > Black Hole Mergers,0.4036442160606384,medium,0.5284463763237,0.4902206063270569,0.0,medium,high,1,2
+astro_014,stellar_black_holes,Astrophysics > Stellar Physics > Compact Objects > Stellar-Mass Black Holes,0.39610164761543276,medium,0.5229695439338684,0.47842156887054443,0.0,medium,high,1,2
+astro_014,intermediate_mass_bh,Astrophysics > High-Energy Astrophysics > Black Holes > Intermediate-Mass Black Holes,0.38417481184005736,medium,0.4931615889072418,0.47245267033576965,0.0,medium,high,1,2
+astro_014,black_holes,Astrophysics > High-Energy Astrophysics > Black Holes,0.37768925726413727,medium,0.48350006341934204,0.4652784764766693,0.0,medium,medium,1,2
+astro_014,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.30395933985710144,low,0.0,0.6079186797142029,0.0,low,medium,1,2
+astro_014,main_sequence,Astrophysics > Stellar Physics > Stellar Evolution > Main Sequence Evolution,0.3038993179798126,low,0.0,0.6077986359596252,0.0,low,medium,1,2
+astro_014,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.29865762591362,low,0.0,0.59731525182724,0.0,low,low,1,2
+astro_014,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.29729512333869934,low,0.0,0.5945902466773987,0.0,low,low,1,2
+astro_014,stellar_mass_loss,Astrophysics > Stellar Physics > Stellar Evolution > Stellar Mass Loss,0.2810414135456085,low,0.0,0.562082827091217,0.0,low,low,1,2
+astro_014,common_envelope,Astrophysics > Stellar Physics > Binary Stars > Common Envelope Evolution,0.27126139402389526,low,0.0,0.5425227880477905,0.0,low,low,1,2
+astro_014,asymptotic_giants,Astrophysics > Stellar Physics > Stellar Evolution > Asymptotic Giant Branch,0.2701606750488281,low,0.0,0.5403213500976562,0.0,low,low,1,2
+astro_014,red_giants,Astrophysics > Stellar Physics > Stellar Evolution > Red Giant Branch,0.26685890555381775,low,0.0,0.5337178111076355,0.0,low,low,1,2
+astro_014,galaxy_mergers,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Galaxy Mergers,0.2640247344970703,low,0.0,0.5280494689941406,0.0,low,low,1,2
+astro_014,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.2618580162525177,low,0.0,0.5237160325050354,0.0,low,low,1,2
+astro_015,chemical_abundances,Astrophysics > Stellar Physics > Stellar Atmospheres > Chemical Abundances,0.230058491230011,low,0.0,0.460116982460022,0.0,low,high,1,1
+astro_016,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.4232080042362213,high,0.5458704829216003,0.5188937187194824,0.0,high,high,2,2
+astro_016,white_dwarfs,Astrophysics > Stellar Physics > Compact Objects > White Dwarfs,0.41864325404167174,medium,0.5424184203147888,0.5118354558944702,0.0,medium,medium,2,2
+astro_016,core_accretion,Astrophysics > Planetary Science > Planetary Formation > Core Accretion Model,0.2680217921733856,low,0.0,0.5360435843467712,0.0,low,low,1,2
+astro_016,accretion_disks,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Accretion Disk Physics,0.2391892969608307,low,0.0,0.4783785939216614,0.0,low,low,1,2
+astro_017,cmb_polarization,Astrophysics > Cosmology > Cosmic Microwave Background > CMB Polarization,0.5195703864097595,high,0.6479225754737854,0.6503872275352478,0.0,high,high,1,2
+astro_017,cmb,Astrophysics > Cosmology > Cosmic Microwave Background,0.4269152820110321,medium,0.5563663244247437,0.520010769367218,0.0,high,medium,1,2
+astro_017,cmb_spectral_distortions,Astrophysics > Cosmology > Cosmic Microwave Background > Spectral Distortions,0.3943131059408188,medium,0.513321042060852,0.48063358664512634,0.0,medium,medium,1,2
+astro_017,cmb_anisotropies,Astrophysics > Cosmology > Cosmic Microwave Background > Temperature Anisotropies,0.38156075179576876,medium,0.506776750087738,0.45905545353889465,0.0,medium,medium,1,2
+astro_017,inflation,Astrophysics > Cosmology > Early Universe > Cosmic Inflation,0.28456538915634155,low,0.0,0.5691307783126831,0.0,low,low,1,2
+astro_017,large_scale_structure,Astrophysics > Cosmology > Large-Scale Structure,0.2637912333011627,low,0.0,0.5275824666023254,0.0,low,low,1,2
+astro_017,cosmology,Astrophysics > Cosmology,0.24148286879062653,low,0.0,0.48296573758125305,0.0,low,low,1,2
+astro_017,voids,Astrophysics > Cosmology > Large-Scale Structure > Cosmic Voids,0.23749226331710815,low,0.0,0.4749845266342163,0.0,low,low,1,2
+astro_017,cosmological_constant,Astrophysics > Cosmology > Dark Energy > Cosmological Constant,0.23532874882221222,low,0.0,0.47065749764442444,0.0,low,low,1,2
+astro_017,accelerated_expansion,Astrophysics > Cosmology > Dark Energy > Accelerated Expansion,0.23252947628498077,low,0.0,0.46505895256996155,0.0,low,low,1,2
+astro_018,galactic,Astrophysics > Galactic Astrophysics,0.3833645433187485,low,0.4907137155532837,0.47230085730552673,0.0,medium,low,1,2
+astro_018,seyfert_galaxies,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Seyfert Galaxies,0.393526154756546,medium,0.5248806476593018,0.472123920917511,0.0,medium,medium,1,2
+astro_018,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.44760372042655944,high,0.5366892218589783,0.5731939077377319,0.0,high,high,1,2
+astro_018,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.4301856756210327,high,0.508786141872406,0.5550996661186218,0.0,high,high,1,2
+astro_018,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.2734014391899109,low,0.0,0.5468028783798218,0.0,low,low,1,2
+astro_018,triggered_sf,Astrophysics > Galactic Astrophysics > Star Formation > Triggered Star Formation,0.4163038969039917,medium,0.48417794704437256,0.5421010255813599,0.0,medium,high,1,2
+astro_018,protostellar_evolution,Astrophysics > Galactic Astrophysics > Star Formation > Protostellar Evolution,0.25720322132110596,low,0.0,0.5144064426422119,0.0,low,low,1,2
+astro_018,agn,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei,0.25698521733283997,low,0.0,0.5139704346656799,0.0,low,low,1,2
+astro_018,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.25309479236602783,low,0.0,0.5061895847320557,0.0,low,low,1,2
+astro_018,stellar_streams,Astrophysics > Galactic Astrophysics > Milky Way Structure > Stellar Streams,0.3942300170660019,medium,0.4877028167247772,0.49583834409713745,0.0,medium,medium,1,2
+astro_018,agn_feedback,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > AGN Feedback,0.3885126084089279,medium,0.4729234576225281,0.493271142244339,0.0,medium,medium,1,2
+astro_018,agn_jets,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Relativistic Jets,0.24515673518180847,low,0.0,0.49031347036361694,0.0,low,low,1,2
+astro_019,red_giants,Astrophysics > Stellar Physics > Stellar Evolution > Red Giant Branch,0.4285586297512054,medium,0.541687548160553,0.5321047306060791,0.0,high,medium,1,2
+astro_019,stellar,Astrophysics > Stellar Physics,0.3827387064695358,low,0.48003652691841125,0.4774554967880249,0.0,medium,low,1,2
+astro_019,binary_stars,Astrophysics > Stellar Physics > Binary Stars,0.37933539152145385,low,0.4734276831150055,0.4746141731739044,0.0,medium,low,1,2
+astro_019,asymptotic_giants,Astrophysics > Stellar Physics > Stellar Evolution > Asymptotic Giant Branch,0.23704354465007782,low,0.0,0.47408708930015564,0.0,low,low,1,2
+astro_019,astro,Astrophysics,0.23606953024864197,low,0.0,0.47213906049728394,0.0,low,low,1,2
+astro_019,eclipsing_binaries,Astrophysics > Stellar Physics > Binary Stars > Eclipsing Binaries,0.23300544917583466,low,0.0,0.4660108983516693,0.0,low,low,1,2
+astro_019,hydrogen_burning,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Hydrogen Burning,0.4706035017967224,high,0.5516896843910217,0.6101931929588318,0.0,high,high,1,2
+astro_019,helium_burning,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Helium Burning,0.4344803184270859,medium,0.49756649136543274,0.5704207420349121,0.0,high,medium,1,2
+astro_019,gas_giants,Astrophysics > Planetary Science > Solar System Bodies > Gas Giants,0.41309840679168697,medium,0.5210291743278503,0.5135793089866638,0.0,medium,medium,1,2
+astro_019,carbon_burning,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Carbon and Oxygen Burning,0.40453805923461916,medium,0.500041127204895,0.5090514421463013,0.0,medium,medium,1,2
+astro_019,spectral_classification,Astrophysics > Stellar Physics > Stellar Atmospheres > Spectral Classification,0.3879973888397217,low,0.5010917782783508,0.47533971071243286,0.0,medium,low,1,2
+astro_020,xray_binaries,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Binary Systems,0.38332017660140993,medium,0.4741929769515991,0.48212456703186035,0.0,medium,high,1,2
+astro_020,xray_timing,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Timing,0.38245161473751066,medium,0.4760415554046631,0.4792782962322235,0.0,medium,high,1,2
+astro_020,black_holes,Astrophysics > High-Energy Astrophysics > Black Holes,0.25188326835632324,low,0.0,0.5037665367126465,0.0,low,medium,1,2
+astro_020,bh_shadows,Astrophysics > High-Energy Astrophysics > Black Holes > Black Hole Shadows,0.24198725819587708,low,0.0,0.48397451639175415,0.0,low,low,1,2
+astro_020,bh_formation,Astrophysics > High-Energy Astrophysics > Black Holes > Black Hole Formation,0.23957908153533936,low,0.0,0.4791581630706787,0.0,low,low,1,2
+astro_020,stellar_black_holes,Astrophysics > Stellar Physics > Compact Objects > Stellar-Mass Black Holes,0.23914632201194763,low,0.0,0.47829264402389526,0.0,low,low,1,2
+astro_020,accretion_disks,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Accretion Disk Physics,0.2364846169948578,low,0.0,0.4729692339897156,0.0,low,low,1,2
+astro_021,axions,Astrophysics > Cosmology > Dark Matter > Axions and ALPs,0.42697404623031615,high,0.5551115274429321,0.520881175994873,0.0,high,high,1,1
+astro_021,dark_matter,Astrophysics > Cosmology > Dark Matter,0.4031840950250626,medium,0.4950326979160309,0.5093485713005066,0.0,medium,medium,1,1
+astro_021,white_dwarfs,Astrophysics > Stellar Physics > Compact Objects > White Dwarfs,0.2536713778972626,low,0.0,0.5073427557945251,0.0,low,low,1,1
+astro_021,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.2331845760345459,low,0.0,0.4663691520690918,0.0,low,low,1,1
+astro_022,molecular_clouds,Astrophysics > Galactic Astrophysics > Star Formation > Molecular Clouds,0.4117671996355057,low,0.5460447072982788,0.49590757489204407,0.0,medium,low,1,2
+astro_022,magnetars,Astrophysics > Stellar Physics > Compact Objects > Magnetars,0.45630748271942134,high,0.5574005246162415,0.5781746506690979,0.0,high,high,2,2
+astro_022,magnetic_fields_ism,Astrophysics > Galactic Astrophysics > Interstellar Medium > Interstellar Magnetic Fields,0.4077246129512787,low,0.5061964988708496,0.5117313265800476,0.0,medium,low,2,2
+astro_022,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.447561240196228,high,0.5281285643577576,0.5782453417778015,0.0,high,high,1,2
+astro_022,cloud_collapse,Astrophysics > Galactic Astrophysics > Star Formation > Cloud Collapse,0.4417915344238281,high,0.5414146184921265,0.5587342977523804,0.0,high,high,1,2
+astro_022,triggered_sf,Astrophysics > Galactic Astrophysics > Star Formation > Triggered Star Formation,0.2774595320224762,low,0.0,0.5549190640449524,0.0,low,low,1,2
+astro_022,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.27284759283065796,low,0.0,0.5456951856613159,0.0,low,low,1,2
+astro_022,disk_instability,Astrophysics > Planetary Science > Planetary Formation > Gravitational Instability,0.26987597346305847,low,0.0,0.5397519469261169,0.0,low,low,1,2
+astro_022,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.41250655949115755,medium,0.4891667068004608,0.5315130949020386,0.0,medium,medium,1,2
+astro_022,magnetic_fields,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Magnetic Fields,0.41366181969642635,medium,0.5013375878334045,0.5265210866928101,0.0,medium,medium,1,2
+astro_022,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.2475353628396988,low,0.0,0.4950707256793976,0.0,low,low,1,2
+astro_023,nucleosynthesis,Astrophysics > Stellar Physics > Stellar Nucleosynthesis,0.26555946469306946,low,0.0,0.5311189293861389,0.0,low,low,1,2
+astro_023,r_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Rapid Neutron Capture,0.25987350940704346,low,0.0,0.5197470188140869,0.0,low,low,1,2
+astro_023,s_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Slow Neutron Capture,0.2597782611846924,low,0.0,0.5195565223693848,0.0,low,low,1,2
+astro_023,agn,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei,0.39850598871707915,medium,0.4713766872882843,0.5141859650611877,0.0,medium,medium,1,2
+astro_023,supernova_remnants,Astrophysics > Galactic Astrophysics > Interstellar Medium > Supernova Remnants,0.40365021824836733,medium,0.5074037909507751,0.5028581619262695,0.0,medium,medium,1,2
+astro_023,explosive_nucleosynthesis,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Explosive Nucleosynthesis,0.24364733695983887,low,0.0,0.48729467391967773,0.0,low,low,1,2
+astro_023,galaxy_mergers,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Galaxy Mergers,0.2371523231267929,low,0.0,0.4743046462535858,0.0,low,low,1,2
+astro_023,seyfert_galaxies,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Seyfert Galaxies,0.2367410957813263,low,0.0,0.4734821915626526,0.0,low,low,1,2
+astro_023,accretion_disks,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Accretion Disk Physics,0.2353275716304779,low,0.0,0.4706551432609558,0.0,low,low,1,2
+astro_023,debris_disks,Astrophysics > Planetary Science > Planetary Formation > Debris Disks,0.2346656322479248,low,0.0,0.4693312644958496,0.0,low,low,1,2
+astro_023,stellar_black_holes,Astrophysics > Stellar Physics > Compact Objects > Stellar-Mass Black Holes,0.43559308052062984,high,0.5304476022720337,0.5529175996780396,0.0,high,high,1,2
+astro_023,intermediate_mass_bh,Astrophysics > High-Energy Astrophysics > Black Holes > Intermediate-Mass Black Holes,0.4109491020441055,medium,0.48470643162727356,0.5310743451118469,0.0,medium,medium,1,2
+astro_023,primordial_black_holes,Astrophysics > Cosmology > Dark Matter > Primordial Black Holes,0.24909670650959015,low,0.0,0.4981934130191803,0.0,low,low,1,2
+astro_023,black_holes,Astrophysics > High-Energy Astrophysics > Black Holes,0.38902474343776705,medium,0.4728335440158844,0.4943493604660034,0.0,medium,medium,1,2
+astro_023,mass_metallicity,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Mass-Metallicity Relation,0.24146772921085358,low,0.0,0.48293545842170715,0.0,low,low,1,2
+astro_023,bh_shadows,Astrophysics > High-Energy Astrophysics > Black Holes > Black Hole Shadows,0.2312535047531128,low,0.0,0.4625070095062256,0.0,low,low,1,2
+astro_024,hot_jupiters,Astrophysics > Planetary Science > Exoplanets > Hot Jupiters,0.41648840308189394,medium,0.5084644556045532,0.5278981328010559,0.0,medium,high,1,1
+astro_024,thermal_emission,Astrophysics > Planetary Science > Planetary Atmospheres > Thermal Emission Spectra,0.4035277307033539,low,0.5008931756019592,0.5065195560455322,0.0,medium,low,1,1
+astro_024,transmission_spectroscopy,Astrophysics > Planetary Science > Planetary Atmospheres > Transmission Spectroscopy,0.39435490071773527,low,0.49619418382644653,0.49099329113960266,0.0,medium,low,1,1
+astro_025,weak_lensing,Astrophysics > Cosmology > Large-Scale Structure > Weak Gravitational Lensing,0.5144112586975098,high,0.6078550815582275,0.664109468460083,0.0,high,high,1,2
+astro_025,galaxy_clustering,Astrophysics > Cosmology > Large-Scale Structure > Galaxy Clustering,0.4572133839130401,medium,0.5687760710716248,0.5731611251831055,0.0,high,medium,1,2
+astro_025,dm_halos,Astrophysics > Cosmology > Dark Matter > Dark Matter Halos,0.4569988250732422,medium,0.5739688873291016,0.5696163177490234,0.0,high,medium,2,2
+astro_025,hubble_tension,Astrophysics > Cosmology > Dark Energy > Hubble Tension,0.4303194463253021,low,0.5480668544769287,0.531798779964447,0.0,high,low,2,2
+astro_025,dm_detection,Astrophysics > Cosmology > Dark Matter > Direct Detection Experiments,0.41466937661170955,low,0.5190243721008301,0.5179241299629211,0.0,medium,low,2,2
+astro_025,dark_energy,Astrophysics > Cosmology > Dark Energy,0.415330958366394,low,0.5299519896507263,0.5126907229423523,0.0,medium,low,2,2
+astro_025,redshift_surveys,Astrophysics > Cosmology > Large-Scale Structure > Redshift Surveys,0.403792130947113,low,0.4918489456176758,0.5124748945236206,0.0,medium,low,1,2
+astro_025,dark_matter,Astrophysics > Cosmology > Dark Matter,0.45776022672653194,medium,0.5493133664131165,0.5859324336051941,0.0,high,medium,2,2
+astro_025,dm_simulations,Astrophysics > Cosmology > Dark Matter > N-Body Simulations,0.44128108620643614,medium,0.531256914138794,0.563808023929596,0.0,high,medium,2,2
+astro_025,wimps,Astrophysics > Cosmology > Dark Matter > Weakly Interacting Massive Particles,0.4674153387546539,medium,0.5482245683670044,0.6058959364891052,0.0,high,medium,2,2
+astro_025,equation_of_state,Astrophysics > Cosmology > Dark Energy > Equation of State,0.24630022048950195,low,0.0,0.4926004409790039,0.0,low,low,1,2
+astro_025,primordial_black_holes,Astrophysics > Cosmology > Dark Matter > Primordial Black Holes,0.24330484867095947,low,0.0,0.48660969734191895,0.0,low,low,1,2
+astro_025,cosmological_constant,Astrophysics > Cosmology > Dark Energy > Cosmological Constant,0.23594669997692108,low,0.0,0.47189339995384216,0.0,low,low,1,2
+astro_026,supernova_remnants,Astrophysics > Galactic Astrophysics > Interstellar Medium > Supernova Remnants,0.38322662115097045,medium,0.48297858238220215,0.47666609287261963,0.0,medium,high,1,1
+astro_027,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.5802741765975952,high,0.71580970287323,0.7310625314712524,0.0,high,high,2,2
+astro_027,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.5151365041732788,medium,0.6305007934570312,0.6519725322723389,0.0,high,medium,2,2
+astro_027,triggered_sf,Astrophysics > Galactic Astrophysics > Star Formation > Triggered Star Formation,0.48821603655815127,medium,0.5969383120536804,0.6182690858840942,0.0,high,medium,1,2
+astro_027,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.48524274230003356,medium,0.6014344692230225,0.6096248030662537,0.0,high,medium,2,2
+astro_027,cloud_collapse,Astrophysics > Galactic Astrophysics > Star Formation > Cloud Collapse,0.4545247137546539,medium,0.541739821434021,0.5840055346488953,0.0,high,medium,1,2
+astro_027,molecular_clouds,Astrophysics > Galactic Astrophysics > Star Formation > Molecular Clouds,0.4513799786567688,medium,0.5476956367492676,0.574142575263977,0.0,high,medium,1,2
+astro_027,protostellar_evolution,Astrophysics > Galactic Astrophysics > Star Formation > Protostellar Evolution,0.4476701319217682,medium,0.5532139539718628,0.5634118914604187,0.0,high,medium,1,2
+astro_027,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.4305957734584808,medium,0.5307973027229309,0.5427131652832031,0.0,high,medium,1,2
+astro_027,high_z_galaxies,Astrophysics > Galactic Astrophysics > Galaxy Evolution > High-Redshift Galaxies,0.2588511109352112,low,0.0,0.5177022218704224,0.0,low,low,1,2
+astro_027,xray_clusters,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > Galaxy Cluster X-Ray Emission,0.2552511990070343,low,0.0,0.5105023980140686,0.0,low,low,1,2
+astro_027,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.4257371544837951,low,0.5323728322982788,0.532050609588623,0.0,high,low,1,2
+astro_027,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.42274957299232485,low,0.5468438863754272,0.5173928141593933,0.0,medium,low,1,2
+astro_027,stellar_rotation,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Rotation,0.2565261423587799,low,0.0,0.5130522847175598,0.0,low,low,1,2
+astro_027,stellar,Astrophysics > Stellar Physics,0.255591481924057,low,0.0,0.511182963848114,0.0,low,low,1,2
+astro_027,stellar_atmospheres,Astrophysics > Stellar Physics > Stellar Atmospheres,0.2434767484664917,low,0.0,0.4869534969329834,0.0,low,low,1,2
+astro_027,main_sequence,Astrophysics > Stellar Physics > Stellar Evolution > Main Sequence Evolution,0.2406459003686905,low,0.0,0.481291800737381,0.0,low,low,1,2
+astro_027,planetary,Astrophysics > Planetary Science,0.23538155853748322,low,0.0,0.47076311707496643,0.0,low,low,1,2
+astro_028,pulsar_timing,Astrophysics > High-Energy Astrophysics > Neutron Stars > Pulsar Timing Arrays,0.45687131881713866,high,0.5364949107170105,0.591845691204071,0.0,high,high,1,2
+astro_028,millisecond_pulsars,Astrophysics > High-Energy Astrophysics > Neutron Stars > Millisecond Pulsars,0.425293105840683,low,0.5322513580322266,0.53123539686203,0.0,high,low,1,2
+astro_028,gravitational_waves_cosmo,Astrophysics > Cosmology > Early Universe > Primordial Gravitational Waves,0.247911274433136,low,0.0,0.495822548866272,0.0,low,low,1,2
+astro_029,chemical_abundances,Astrophysics > Stellar Physics > Stellar Atmospheres > Chemical Abundances,0.44337259232997894,medium,0.47895893454551697,0.5993698239326477,0.0,high,medium,1,2
+astro_029,mass_metallicity,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Mass-Metallicity Relation,0.42739017903804777,low,0.49612072110176086,0.5571079254150391,0.0,high,low,1,2
+astro_029,galactic_halo,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Halo,0.26791343092918396,low,0.0,0.5358268618583679,0.0,low,low,1,2
+astro_029,chemical_evolution,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Chemical Evolution,0.24510693550109863,low,0.0,0.49021387100219727,0.0,low,low,1,2
+astro_029,s_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Slow Neutron Capture,0.46879328489303584,high,0.5521302819252014,0.6063084006309509,0.0,high,high,1,2
+astro_029,ns_mergers,Astrophysics > High-Energy Astrophysics > Neutron Stars > Neutron Star Mergers,0.4471684157848358,high,0.4876549243927002,0.6017438769340515,0.0,high,high,1,2
+astro_029,r_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Rapid Neutron Capture,0.4598605573177338,high,0.5312069058418274,0.6009969711303711,0.0,high,high,1,2
+astro_029,neutron_stars,Astrophysics > High-Energy Astrophysics > Neutron Stars,0.4326362818479538,medium,0.4909813106060028,0.5706837773323059,0.0,high,medium,1,2
+astro_029,ns_equation_state,Astrophysics > High-Energy Astrophysics > Neutron Stars > Equation of State,0.2550952434539795,low,0.0,0.510190486907959,0.0,low,low,1,2
+astro_029,ns_cooling,Astrophysics > High-Energy Astrophysics > Neutron Stars > Neutron Star Cooling,0.24425435066223145,low,0.0,0.4885087013244629,0.0,low,low,1,2
+astro_029,neutron_star_physics,Astrophysics > Stellar Physics > Compact Objects > Neutron Star Physics,0.23052474856376648,low,0.0,0.46104949712753296,0.0,low,low,1,2
+astro_031,hii_regions,Astrophysics > Galactic Astrophysics > Interstellar Medium > HII Regions,0.44874518513679507,high,0.5472956895828247,0.5691129565238953,0.0,high,high,1,2
+astro_031,ism,Astrophysics > Galactic Astrophysics > Interstellar Medium,0.4475643992424011,medium,0.5551807284355164,0.5620203614234924,0.0,high,medium,1,2
+astro_031,cosmic_rays_ism,Astrophysics > Galactic Astrophysics > Interstellar Medium > Cosmic Ray Interactions,0.39024951457977297,low,0.5050288438796997,0.4774817228317261,0.0,medium,low,1,2
+astro_031,dust,Astrophysics > Galactic Astrophysics > Interstellar Medium > Interstellar Dust,0.38039547204971313,low,0.48603251576423645,0.4691714346408844,0.0,medium,low,1,2
+astro_031,molecular_gas,Astrophysics > Galactic Astrophysics > Interstellar Medium > Molecular Gas,0.23020613193511963,low,0.0,0.46041226387023926,0.0,low,low,1,2
+astro_031,supernova_remnants,Astrophysics > Galactic Astrophysics > Interstellar Medium > Supernova Remnants,0.46736318469047544,high,0.5844042897224426,0.5840837955474854,0.0,high,high,1,2
+astro_031,cloud_collapse,Astrophysics > Galactic Astrophysics > Star Formation > Cloud Collapse,0.23147079348564148,low,0.0,0.46294158697128296,0.0,low,low,1,2
+astro_032,direct_imaging,Astrophysics > Planetary Science > Exoplanets > Direct Imaging,0.23889081180095673,low,0.0,0.47778162360191345,0.0,low,low,1,2
+astro_032,dark_matter,Astrophysics > Cosmology > Dark Matter,0.2856159210205078,low,0.0,0.5712318420410156,0.0,low,high,1,2
+astro_032,dm_halos,Astrophysics > Cosmology > Dark Matter > Dark Matter Halos,0.2810368537902832,low,0.0,0.5620737075805664,0.0,low,high,1,2
+astro_032,wimps,Astrophysics > Cosmology > Dark Matter > Weakly Interacting Massive Particles,0.2789638340473175,low,0.0,0.557927668094635,0.0,low,medium,1,2
+astro_032,dark_energy,Astrophysics > Cosmology > Dark Energy,0.24715736508369446,low,0.0,0.4943147301673889,0.0,low,low,1,2
+astro_032,primordial_black_holes,Astrophysics > Cosmology > Dark Matter > Primordial Black Holes,0.23707064986228943,low,0.0,0.47414129972457886,0.0,low,low,1,2
+astro_032,dm_simulations,Astrophysics > Cosmology > Dark Matter > N-Body Simulations,0.23146848380565643,low,0.0,0.46293696761131287,0.0,low,low,1,2
+astro_034,s_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Slow Neutron Capture,0.45201174616813655,high,0.5284845232963562,0.5869327783584595,0.0,high,high,1,2
+astro_034,nucleosynthesis,Astrophysics > Stellar Physics > Stellar Nucleosynthesis,0.44770737886428835,high,0.5157612562179565,0.5859580039978027,0.0,high,high,1,2
+astro_034,r_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Rapid Neutron Capture,0.43916795849800105,medium,0.5163418650627136,0.568530797958374,0.0,high,medium,1,2
+astro_034,explosive_nucleosynthesis,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Explosive Nucleosynthesis,0.26865363121032715,low,0.0,0.5373072624206543,0.0,low,low,1,2
+astro_034,ns_mergers,Astrophysics > High-Energy Astrophysics > Neutron Stars > Neutron Star Mergers,0.40761917233467104,low,0.5093033909797668,0.5096563100814819,0.0,medium,low,2,2
+astro_034,neutron_stars,Astrophysics > High-Energy Astrophysics > Neutron Stars,0.2316010445356369,low,0.0,0.4632020890712738,0.0,low,low,1,2
+astro_035,white_dwarfs,Astrophysics > Stellar Physics > Compact Objects > White Dwarfs,0.45418325662612913,high,0.5701426863670349,0.5662809014320374,0.0,high,high,2,2
+astro_035,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.43405340909957885,high,0.53258216381073,0.5485575199127197,0.0,high,high,2,2
+astro_035,stellar_atmospheres,Astrophysics > Stellar Physics > Stellar Atmospheres,0.4165792644023895,medium,0.5198214054107666,0.5212656855583191,0.0,medium,medium,2,2
+astro_035,spectral_classification,Astrophysics > Stellar Physics > Stellar Atmospheres > Spectral Classification,0.40525346994400024,low,0.491410493850708,0.5156606435775757,0.0,medium,low,1,2
+astro_035,thermal_emission,Astrophysics > Planetary Science > Planetary Atmospheres > Thermal Emission Spectra,0.37840287685394286,low,0.48100730776786804,0.4682013690471649,0.0,medium,low,2,2
+astro_035,ice_giants,Astrophysics > Planetary Science > Solar System Bodies > Ice Giants,0.23128703236579895,low,0.0,0.4625740647315979,0.0,low,low,1,2
+astro_036,comets,Astrophysics > Planetary Science > Solar System Bodies > Comets,0.46664748191833494,high,0.5733389854431152,0.5892915725708008,0.0,high,high,2,2
+astro_036,protoplanetary_disks,Astrophysics > Planetary Science > Planetary Formation > Protoplanetary Disks,0.2840178906917572,low,0.0,0.5680357813835144,0.0,low,medium,1,2
+astro_036,debris_disks,Astrophysics > Planetary Science > Planetary Formation > Debris Disks,0.2688291370868683,low,0.0,0.5376582741737366,0.0,low,low,1,2
+astro_036,solar_system,Astrophysics > Planetary Science > Solar System Bodies,0.2601328492164612,low,0.0,0.5202656984329224,0.0,low,low,1,2
+astro_036,core_accretion,Astrophysics > Planetary Science > Planetary Formation > Core Accretion Model,0.2593610882759094,low,0.0,0.5187221765518188,0.0,low,low,1,2
+astro_036,chromospheres,Astrophysics > Stellar Physics > Stellar Atmospheres > Chromospheres and Coronae,0.25561052560806274,low,0.0,0.5112210512161255,0.0,low,low,1,2
+astro_036,accretion_disks,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Accretion Disk Physics,0.25352469086647034,low,0.0,0.5070493817329407,0.0,low,low,1,2
+astro_036,planet_formation,Astrophysics > Planetary Science > Planetary Formation,0.25157496333122253,low,0.0,0.5031499266624451,0.0,low,low,1,2
+astro_036,planetary,Astrophysics > Planetary Science,0.24161018431186676,low,0.0,0.4832203686237335,0.0,low,low,1,2
+astro_036,nucleosynthesis,Astrophysics > Stellar Physics > Stellar Nucleosynthesis,0.23933207988739014,low,0.0,0.4786641597747803,0.0,low,low,1,2
+astro_037,bh_mergers,Astrophysics > High-Energy Astrophysics > Black Holes > Black Hole Mergers,0.26465046405792236,low,0.0,0.5293009281158447,0.0,low,low,1,2
+astro_037,ns_mergers,Astrophysics > High-Energy Astrophysics > Neutron Stars > Neutron Star Mergers,0.42954370379447937,high,0.5131924152374268,0.5511719584465027,0.0,high,high,2,2
+astro_037,gravitational_waves_cosmo,Astrophysics > Cosmology > Early Universe > Primordial Gravitational Waves,0.4003608494997024,medium,0.47493109107017517,0.5157630443572998,0.0,medium,high,1,2
+astro_037,black_holes,Astrophysics > High-Energy Astrophysics > Black Holes,0.25288596749305725,low,0.0,0.5057719349861145,0.0,low,low,1,2
+astro_037,intermediate_mass_bh,Astrophysics > High-Energy Astrophysics > Black Holes > Intermediate-Mass Black Holes,0.24390096962451935,low,0.0,0.4878019392490387,0.0,low,low,1,2
+astro_037,stellar_black_holes,Astrophysics > Stellar Physics > Compact Objects > Stellar-Mass Black Holes,0.23796774446964264,low,0.0,0.4759354889392853,0.0,low,low,1,2
+astro_037,neutron_stars,Astrophysics > High-Energy Astrophysics > Neutron Stars,0.43603775203227996,high,0.47416171431541443,0.5875784754753113,0.0,high,high,2,2
+astro_037,millisecond_pulsars,Astrophysics > High-Energy Astrophysics > Neutron Stars > Millisecond Pulsars,0.2540437877178192,low,0.0,0.5080875754356384,0.0,low,low,2,2
+astro_037,glitches,Astrophysics > High-Energy Astrophysics > Neutron Stars > Pulsar Glitches,0.2620859444141388,low,0.0,0.5241718888282776,0.0,low,low,2,2
+astro_037,bh_formation,Astrophysics > High-Energy Astrophysics > Black Holes > Black Hole Formation,0.2296251505613327,low,0.0,0.4592503011226654,0.0,low,low,1,2
+astro_037,ns_equation_state,Astrophysics > High-Energy Astrophysics > Neutron Stars > Equation of State,0.3031979501247406,low,0.0,0.6063959002494812,0.0,low,medium,1,2
+astro_037,neutron_star_physics,Astrophysics > Stellar Physics > Compact Objects > Neutron Star Physics,0.44325356781482694,high,0.4753112494945526,0.6013203859329224,0.0,high,high,1,2
+astro_037,s_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Slow Neutron Capture,0.29823386669158936,low,0.0,0.5964677333831787,0.0,low,medium,1,2
+astro_037,r_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Rapid Neutron Capture,0.2845151126384735,low,0.0,0.569030225276947,0.0,low,medium,1,2
+astro_037,ns_cooling,Astrophysics > High-Energy Astrophysics > Neutron Stars > Neutron Star Cooling,0.2584894299507141,low,0.0,0.5169788599014282,0.0,low,low,1,2
+astro_039,cosmic_rays,Astrophysics > High-Energy Astrophysics > Cosmic Rays,0.5091321527957916,high,0.6106947064399719,0.6518474817276001,0.0,high,high,1,2
+astro_039,uhecr,Astrophysics > High-Energy Astrophysics > Cosmic Rays > Ultra-High Energy Cosmic Rays,0.4856721520423889,high,0.5794183611869812,0.6236932873725891,0.0,high,high,1,2
+astro_039,air_showers,Astrophysics > High-Energy Astrophysics > Cosmic Rays > Extensive Air Showers,0.43535981774330135,medium,0.5204665064811707,0.5584397315979004,0.0,high,medium,1,2
+astro_039,high_energy,Astrophysics > High-Energy Astrophysics,0.4264987349510193,medium,0.5194945931434631,0.5413007140159607,0.0,high,medium,1,2
+astro_039,cr_composition,Astrophysics > High-Energy Astrophysics > Cosmic Rays > Cosmic Ray Composition,0.42273329496383666,medium,0.5085731148719788,0.5403227210044861,0.0,medium,medium,1,2
+astro_039,cr_propagation,Astrophysics > High-Energy Astrophysics > Cosmic Rays > Cosmic Ray Propagation,0.41566813588142393,medium,0.48693013191223145,0.539178192615509,0.0,medium,medium,1,2
+astro_039,xray_background,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > Cosmic X-Ray Background,0.4070978134870529,medium,0.4809255301952362,0.5256403088569641,0.0,medium,medium,1,2
+astro_039,cr_acceleration,Astrophysics > High-Energy Astrophysics > Cosmic Rays > Cosmic Ray Acceleration,0.2530657649040222,low,0.0,0.5061315298080444,0.0,low,low,1,2
+astro_039,xray_transients,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Transients,0.2480498105287552,low,0.0,0.4960996210575104,0.0,low,low,1,2
+astro_039,grb,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts,0.24751344323158264,low,0.0,0.4950268864631653,0.0,low,low,1,2
+astro_039,cmb_anisotropies,Astrophysics > Cosmology > Cosmic Microwave Background > Temperature Anisotropies,0.4062917321920395,medium,0.487497478723526,0.5200849771499634,0.0,medium,medium,1,2
+astro_039,galaxy_evolution,Astrophysics > Galactic Astrophysics > Galaxy Evolution,0.25332632660865784,low,0.0,0.5066526532173157,0.0,low,low,1,2
+astro_039,high_z_galaxies,Astrophysics > Galactic Astrophysics > Galaxy Evolution > High-Redshift Galaxies,0.24982692301273346,low,0.0,0.4996538460254669,0.0,low,low,1,2
+astro_039,cr_anisotropy,Astrophysics > High-Energy Astrophysics > Cosmic Rays > Cosmic Ray Anisotropy,0.417961186170578,medium,0.5712382197380066,0.49317944049835205,0.0,medium,medium,1,2
+astro_039,galactic_bulge,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Bulge,0.24535205960273743,low,0.0,0.49070411920547485,0.0,low,low,1,2
+astro_039,blazars,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Blazars,0.24192658066749573,low,0.0,0.48385316133499146,0.0,low,low,1,2
+astro_039,galactic_center,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Center,0.24016524851322174,low,0.0,0.4803304970264435,0.0,low,low,1,2
+astro_039,galactic,Astrophysics > Galactic Astrophysics,0.24002742767333984,low,0.0,0.4800548553466797,0.0,low,low,1,2
+astro_039,cosmic_rays_ism,Astrophysics > Galactic Astrophysics > Interstellar Medium > Cosmic Ray Interactions,0.3893834799528122,medium,0.5032724142074585,0.4768035113811493,0.0,medium,medium,1,2
+astro_039,seyfert_galaxies,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Seyfert Galaxies,0.23727823793888092,low,0.0,0.47455647587776184,0.0,low,low,1,2
+astro_040,molecular_gas,Astrophysics > Galactic Astrophysics > Interstellar Medium > Molecular Gas,0.41918999552726743,medium,0.5078766942024231,0.533653974533081,0.0,medium,high,1,2
+astro_040,high_z_galaxies,Astrophysics > Galactic Astrophysics > Galaxy Evolution > High-Redshift Galaxies,0.23007901012897491,low,0.0,0.46015802025794983,0.0,low,low,1,2
+astro_040,stellar_atmospheres,Astrophysics > Stellar Physics > Stellar Atmospheres,0.27792662382125854,low,0.0,0.5558532476425171,0.0,low,medium,1,2
+astro_040,carbon_burning,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Carbon and Oxygen Burning,0.27425405383110046,low,0.0,0.5485081076622009,0.0,low,medium,1,2
+astro_040,stellar_winds,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Winds,0.27351078391075134,low,0.0,0.5470215678215027,0.0,low,medium,1,2
+astro_040,chemical_abundances,Astrophysics > Stellar Physics > Stellar Atmospheres > Chemical Abundances,0.2656427025794983,low,0.0,0.5312854051589966,0.0,low,medium,1,2
+astro_040,stellar_rotation,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Rotation,0.2601630985736847,low,0.0,0.5203261971473694,0.0,low,medium,1,2
+astro_040,main_sequence,Astrophysics > Stellar Physics > Stellar Evolution > Main Sequence Evolution,0.24247077107429504,low,0.0,0.4849415421485901,0.0,low,low,1,2
+astro_040,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.23801378905773163,low,0.0,0.47602757811546326,0.0,low,low,1,2
+astro_040,nucleosynthesis,Astrophysics > Stellar Physics > Stellar Nucleosynthesis,0.23750150203704834,low,0.0,0.4750030040740967,0.0,low,low,1,2
+astro_040,helium_burning,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Helium Burning,0.23584245145320892,low,0.0,0.47168490290641785,0.0,low,low,1,2
+astro_040,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.23247629404067993,low,0.0,0.46495258808135986,0.0,low,low,1,2
+astro_041,protoplanetary_disks,Astrophysics > Planetary Science > Planetary Formation > Protoplanetary Disks,0.500453895330429,high,0.5996636748313904,0.6411095857620239,0.0,high,high,2,2
+astro_041,migration,Astrophysics > Planetary Science > Planetary Formation > Planetary Migration,0.5055879116058349,high,0.6179834604263306,0.6403857469558716,0.0,high,high,2,2
+astro_041,debris_disks,Astrophysics > Planetary Science > Planetary Formation > Debris Disks,0.42019860148429866,medium,0.5354421734809875,0.5191318988800049,0.0,medium,medium,2,2
+astro_041,planet_formation,Astrophysics > Planetary Science > Planetary Formation,0.3963353127241135,low,0.48500779271125793,0.5016659498214722,0.0,medium,low,1,2
+astro_041,planet_interactions,Astrophysics > Planetary Science > Planetary Formation > Planet-Planet Interactions,0.2451990693807602,low,0.0,0.4903981387615204,0.0,low,low,1,2
+astro_041,exoplanets,Astrophysics > Planetary Science > Exoplanets,0.23959773778915405,low,0.0,0.4791954755783081,0.0,low,low,1,2
+astro_041,planetary,Astrophysics > Planetary Science,0.23954111337661743,low,0.0,0.47908222675323486,0.0,low,low,1,2
+astro_041,core_accretion,Astrophysics > Planetary Science > Planetary Formation > Core Accretion Model,0.42936022877693175,medium,0.5252034068107605,0.5435984134674072,0.0,high,medium,2,2
+astro_041,super_earths,Astrophysics > Planetary Science > Exoplanets > Super-Earths,0.3830739945173264,low,0.4821043014526367,0.4768854081630707,0.0,medium,low,1,2
+astro_042,xray_clusters,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > Galaxy Cluster X-Ray Emission,0.5258912205696106,high,0.6616647243499756,0.6547836065292358,0.0,high,high,2,2
+astro_042,mass_metallicity,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Mass-Metallicity Relation,0.46684413552284243,medium,0.5694212317466736,0.5920355319976807,0.0,high,medium,2,2
+astro_042,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.42255315780639646,medium,0.5468608140945435,0.5169898271560669,0.0,medium,medium,2,2
+astro_042,galaxy_clustering,Astrophysics > Cosmology > Large-Scale Structure > Galaxy Clustering,0.402972149848938,medium,0.5044466853141785,0.5032762885093689,0.0,medium,medium,2,2
+astro_042,xray_spectroscopy,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Spectroscopy,0.3862935662269592,medium,0.48291337490081787,0.48283910751342773,0.0,medium,medium,1,2
+astro_042,chemical_abundances,Astrophysics > Stellar Physics > Stellar Atmospheres > Chemical Abundances,0.37460183203220365,low,0.47918346524238586,0.46169358491897583,0.0,low,low,1,2
+astro_042,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.37286012172698973,low,0.4738149642944336,0.46143126487731934,0.0,low,low,2,2
+astro_042,supernova_remnants,Astrophysics > Galactic Astrophysics > Interstellar Medium > Supernova Remnants,0.4516382873058319,medium,0.5040920972824097,0.600821316242218,0.0,high,medium,1,2
+astro_042,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.24747821688652039,low,0.0,0.49495643377304077,0.0,low,low,1,2
+astro_042,galaxy_evolution,Astrophysics > Galactic Astrophysics > Galaxy Evolution,0.24619533121585846,low,0.0,0.4923906624317169,0.0,low,low,1,2
+astro_042,galaxy_mergers,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Galaxy Mergers,0.2406884729862213,low,0.0,0.4813769459724426,0.0,low,low,1,2
+astro_042,high_z_galaxies,Astrophysics > Galactic Astrophysics > Galaxy Evolution > High-Redshift Galaxies,0.23020733892917633,low,0.0,0.46041467785835266,0.0,low,low,1,2
+astro_043,mass_metallicity,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Mass-Metallicity Relation,0.5738453149795533,high,0.7402697801589966,0.7035287618637085,0.0,high,high,2,2
+astro_043,chemical_evolution,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Chemical Evolution,0.46832663416862486,medium,0.522680401802063,0.623045027256012,0.0,high,medium,1,2
+astro_043,galaxy_evolution,Astrophysics > Galactic Astrophysics > Galaxy Evolution,0.4401425957679749,medium,0.5063663721084595,0.576465368270874,0.0,high,medium,1,2
+astro_043,chemical_abundances,Astrophysics > Stellar Physics > Stellar Atmospheres > Chemical Abundances,0.25892314314842224,low,0.0,0.5178462862968445,0.0,low,low,1,2
+astro_043,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.2545155882835388,low,0.0,0.5090311765670776,0.0,low,low,1,2
+astro_043,molecular_gas,Astrophysics > Galactic Astrophysics > Interstellar Medium > Molecular Gas,0.25074344873428345,low,0.0,0.5014868974685669,0.0,low,low,1,2
+astro_043,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.2439577579498291,low,0.0,0.4879155158996582,0.0,low,low,1,2
+astro_043,galaxy_mergers,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Galaxy Mergers,0.243213951587677,low,0.0,0.486427903175354,0.0,low,low,1,2
+astro_043,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.24116362631320953,low,0.0,0.48232725262641907,0.0,low,low,1,2
+astro_043,stellar_mass_loss,Astrophysics > Stellar Physics > Stellar Evolution > Stellar Mass Loss,0.2401125133037567,low,0.0,0.4802250266075134,0.0,low,low,1,2
+astro_044,pulsar_timing,Astrophysics > High-Energy Astrophysics > Neutron Stars > Pulsar Timing Arrays,0.46337808370590206,high,0.5467926859855652,0.5986805558204651,0.0,high,high,1,2
+astro_044,millisecond_pulsars,Astrophysics > High-Energy Astrophysics > Neutron Stars > Millisecond Pulsars,0.4387745141983032,high,0.5403000712394714,0.5533689856529236,0.0,high,high,1,2
+astro_044,glitches,Astrophysics > High-Energy Astrophysics > Neutron Stars > Pulsar Glitches,0.40951295495033263,medium,0.5161429047584534,0.5093401670455933,0.0,medium,medium,1,2
+astro_044,xray_timing,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Timing,0.2401360720396042,low,0.0,0.4802721440792084,0.0,low,low,1,2
+astro_044,black_holes,Astrophysics > High-Energy Astrophysics > Black Holes,0.43470427989959715,high,0.5317879915237427,0.5503357648849487,0.0,high,high,2,2
+astro_044,bh_mergers,Astrophysics > High-Energy Astrophysics > Black Holes > Black Hole Mergers,0.41326969563961025,medium,0.48514851927757263,0.535450279712677,0.0,medium,medium,1,2
+astro_044,bh_shadows,Astrophysics > High-Energy Astrophysics > Black Holes > Black Hole Shadows,0.25103962421417236,low,0.0,0.5020792484283447,0.0,low,low,1,2
+astro_044,primordial_black_holes,Astrophysics > Cosmology > Dark Matter > Primordial Black Holes,0.24593982100486755,low,0.0,0.4918796420097351,0.0,low,low,1,2
+astro_044,intermediate_mass_bh,Astrophysics > High-Energy Astrophysics > Black Holes > Intermediate-Mass Black Holes,0.242363840341568,low,0.0,0.484727680683136,0.0,low,low,1,2
+astro_044,bh_formation,Astrophysics > High-Energy Astrophysics > Black Holes > Black Hole Formation,0.24228820204734802,low,0.0,0.48457640409469604,0.0,low,low,1,2
+astro_044,hawking_radiation,Astrophysics > High-Energy Astrophysics > Black Holes > Hawking Radiation,0.23770692944526672,low,0.0,0.47541385889053345,0.0,low,low,1,2
+astro_044,supermassive_bh,Astrophysics > High-Energy Astrophysics > Black Holes > Supermassive Black Holes,0.3826553761959076,medium,0.48400092124938965,0.4749101996421814,0.0,medium,medium,1,2
+astro_045,stellar_black_holes,Astrophysics > Stellar Physics > Compact Objects > Stellar-Mass Black Holes,0.4268458664417267,high,0.5464128255844116,0.5258440375328064,0.0,high,high,2,2
+astro_045,pulsars,Astrophysics > Stellar Physics > Compact Objects > Pulsars,0.4076302945613861,medium,0.5182641744613647,0.5043020844459534,0.0,medium,medium,1,2
+astro_045,intermediate_mass_bh,Astrophysics > High-Energy Astrophysics > Black Holes > Intermediate-Mass Black Holes,0.40295624136924746,medium,0.49307215213775635,0.5100691914558411,0.0,medium,medium,2,2
+astro_045,black_holes,Astrophysics > High-Energy Astrophysics > Black Holes,0.23185668885707855,low,0.0,0.4637133777141571,0.0,low,low,1,2
+astro_045,stellar_mass_loss,Astrophysics > Stellar Physics > Stellar Evolution > Stellar Mass Loss,0.24530816078186035,low,0.0,0.4906163215637207,0.0,low,low,1,2
+astro_045,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.2402821183204651,low,0.0,0.4805642366409302,0.0,low,low,1,2
+astro_045,supernova_remnants,Astrophysics > Galactic Astrophysics > Interstellar Medium > Supernova Remnants,0.23488794267177582,low,0.0,0.46977588534355164,0.0,low,low,1,2
+astro_045,bh_formation,Astrophysics > High-Energy Astrophysics > Black Holes > Black Hole Formation,0.23151564598083496,low,0.0,0.4630312919616699,0.0,low,low,1,2
+astro_045,triggered_sf,Astrophysics > Galactic Astrophysics > Star Formation > Triggered Star Formation,0.22988742589950562,low,0.0,0.45977485179901123,0.0,low,low,1,2
+astro_046,supernova_remnants,Astrophysics > Galactic Astrophysics > Interstellar Medium > Supernova Remnants,0.3875815451145172,medium,0.48809728026390076,0.48230472207069397,0.0,medium,high,1,1
+astro_047,binary_stars,Astrophysics > Stellar Physics > Binary Stars,0.4495426774024963,high,0.5419866442680359,0.5738933682441711,0.0,high,high,1,2
+astro_047,eclipsing_binaries,Astrophysics > Stellar Physics > Binary Stars > Eclipsing Binaries,0.45294380784034727,high,0.5544484853744507,0.5732185244560242,0.0,high,high,1,2
+astro_047,contact_binaries,Astrophysics > Stellar Physics > Binary Stars > Contact Binaries,0.4314374148845672,high,0.5004807710647583,0.5625863671302795,0.0,high,high,1,2
+astro_047,spectroscopic_binaries,Astrophysics > Stellar Physics > Binary Stars > Spectroscopic Binaries,0.4247413158416748,medium,0.5215371251106262,0.5365603566169739,0.0,high,medium,1,2
+astro_047,symbiotic_stars,Astrophysics > Stellar Physics > Binary Stars > Symbiotic Stars,0.4234188318252563,medium,0.517576277256012,0.5362918972969055,0.0,high,medium,1,2
+astro_047,habitable_zone,Astrophysics > Planetary Science > Exoplanets > Habitable Zone Planets,0.42844765782356264,medium,0.551841139793396,0.5257906317710876,0.0,high,medium,2,2
+astro_047,mass_transfer,Astrophysics > Stellar Physics > Binary Stars > Mass Transfer Systems,0.25474509596824646,low,0.0,0.5094901919364929,0.0,low,low,1,2
+astro_047,planet_interactions,Astrophysics > Planetary Science > Planetary Formation > Planet-Planet Interactions,0.40118201076984406,low,0.5076301097869873,0.4977859556674957,0.0,medium,low,2,2
+astro_047,solar_system,Astrophysics > Planetary Science > Solar System Bodies,0.3978461712598801,low,0.4988672137260437,0.4963720142841339,0.0,medium,low,1,2
+astro_047,terrestrial_planets,Astrophysics > Planetary Science > Solar System Bodies > Terrestrial Planets,0.3932612121105194,low,0.4917966425418854,0.4914444386959076,0.0,medium,low,1,2
+astro_047,exoplanets,Astrophysics > Planetary Science > Exoplanets,0.38574927151203153,low,0.4993390738964081,0.47189509868621826,0.0,medium,low,1,2
+astro_047,planetary,Astrophysics > Planetary Science,0.23520508408546448,low,0.0,0.47041016817092896,0.0,low,low,1,2
+astro_047,protoplanetary_disks,Astrophysics > Planetary Science > Planetary Formation > Protoplanetary Disks,0.23281973600387573,low,0.0,0.46563947200775146,0.0,low,low,1,2
+astro_048,dust,Astrophysics > Galactic Astrophysics > Interstellar Medium > Interstellar Dust,0.5262503325939178,high,0.6105926632881165,0.6861450672149658,0.0,high,high,2,2
+astro_048,quasars,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Quasars,0.406724214553833,medium,0.4979729652404785,0.5146646499633789,0.0,medium,medium,1,2
+astro_048,redshift_surveys,Astrophysics > Cosmology > Large-Scale Structure > Redshift Surveys,0.4035073935985565,medium,0.5130552649497986,0.4991816282272339,0.0,medium,medium,1,2
+astro_048,big_bang_nucleosynthesis,Astrophysics > Cosmology > Early Universe > Big Bang Nucleosynthesis,0.25293201208114624,low,0.0,0.5058640241622925,0.0,low,low,1,2
+astro_048,cosmic_rays_ism,Astrophysics > Galactic Astrophysics > Interstellar Medium > Cosmic Ray Interactions,0.24236710369586945,low,0.0,0.4847342073917389,0.0,low,low,1,2
+astro_048,recombination,Astrophysics > Cosmology > Cosmic Microwave Background > Recombination Era,0.23495958745479584,low,0.0,0.4699191749095917,0.0,low,low,1,2
+astro_049,spiral_arms,Astrophysics > Galactic Astrophysics > Milky Way Structure > Spiral Arm Structure,0.45256911516189574,high,0.5379585027694702,0.5823631286621094,0.0,high,high,1,2
+astro_049,galactic,Astrophysics > Galactic Astrophysics,0.24417433142662048,low,0.0,0.48834866285324097,0.0,low,low,1,2
+astro_049,galactic_halo,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Halo,0.4311921119689941,high,0.5521726012229919,0.5310806632041931,0.0,high,high,2,2
+astro_049,high_z_galaxies,Astrophysics > Galactic Astrophysics > Galaxy Evolution > High-Redshift Galaxies,0.3802335947751999,medium,0.47597113251686096,0.4748845100402832,0.0,medium,medium,1,2
+astro_049,stellar_rotation,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Rotation,0.23234805464744568,low,0.0,0.46469610929489136,0.0,low,low,1,2
+astro_049,galactic_disk,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Disk,0.23191316425800323,low,0.0,0.46382632851600647,0.0,low,low,1,2
+astro_049,agn_jets,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Relativistic Jets,0.23095564544200897,low,0.0,0.46191129088401794,0.0,low,low,1,2
+astro_049,milky_way,Astrophysics > Galactic Astrophysics > Milky Way Structure,0.2290640026330948,low,0.0,0.4581280052661896,0.0,low,low,1,2
+astro_049,dm_halos,Astrophysics > Cosmology > Dark Matter > Dark Matter Halos,0.5128363072872162,high,0.5607038736343384,0.6892502903938293,0.0,high,high,1,2
+astro_049,dark_matter,Astrophysics > Cosmology > Dark Matter,0.43348395824432373,high,0.4774513840675354,0.5804970860481262,0.0,high,high,1,2
+astro_049,wimps,Astrophysics > Cosmology > Dark Matter > Weakly Interacting Massive Particles,0.2820206582546234,low,0.0,0.5640413165092468,0.0,low,low,1,2
+astro_049,dm_simulations,Astrophysics > Cosmology > Dark Matter > N-Body Simulations,0.26109957695007324,low,0.0,0.5221991539001465,0.0,low,low,1,2
+astro_049,hubble_tension,Astrophysics > Cosmology > Dark Energy > Hubble Tension,0.25394928455352783,low,0.0,0.5078985691070557,0.0,low,low,1,2
+astro_049,dark_energy,Astrophysics > Cosmology > Dark Energy,0.24284374713897705,low,0.0,0.4856874942779541,0.0,low,low,1,2
+astro_049,dm_detection,Astrophysics > Cosmology > Dark Matter > Direct Detection Experiments,0.24002179503440857,low,0.0,0.48004359006881714,0.0,low,low,1,2
+astro_049,primordial_black_holes,Astrophysics > Cosmology > Dark Matter > Primordial Black Holes,0.23475906252861023,low,0.0,0.46951812505722046,0.0,low,low,1,2
+astro_049,accelerated_expansion,Astrophysics > Cosmology > Dark Energy > Accelerated Expansion,0.2311350554227829,low,0.0,0.4622701108455658,0.0,low,low,1,2
+astro_051,agn_jets,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Relativistic Jets,0.44253296554088595,high,0.4776099622249603,0.5984999537467957,0.0,high,high,1,1
+astro_051,cosmic_rays,Astrophysics > High-Energy Astrophysics > Cosmic Rays,0.2789822220802307,low,0.0,0.5579644441604614,0.0,low,medium,1,1
+astro_051,grb,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts,0.2779626250267029,low,0.0,0.5559252500534058,0.0,low,medium,1,1
+astro_051,grb_jets,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts > GRB Jet Physics,0.27004462480545044,low,0.0,0.5400892496109009,0.0,low,medium,1,1
+astro_051,cr_acceleration,Astrophysics > High-Energy Astrophysics > Cosmic Rays > Cosmic Ray Acceleration,0.258182555437088,low,0.0,0.516365110874176,0.0,low,low,1,1
+astro_051,uhecr,Astrophysics > High-Energy Astrophysics > Cosmic Rays > Ultra-High Energy Cosmic Rays,0.25490808486938477,low,0.0,0.5098161697387695,0.0,low,low,1,1
+astro_051,recombination,Astrophysics > Cosmology > Cosmic Microwave Background > Recombination Era,0.24800053238868713,low,0.0,0.49600106477737427,0.0,low,low,1,1
+astro_051,kilonova,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts > Kilonovae,0.24393188953399658,low,0.0,0.48786377906799316,0.0,low,low,1,1
+astro_051,sz_effect,Astrophysics > Cosmology > Cosmic Microwave Background > Sunyaev-Zeldovich Effect,0.2421422153711319,low,0.0,0.4842844307422638,0.0,low,low,1,1
+astro_051,grb_afterglows,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts > GRB Afterglows,0.2415536493062973,low,0.0,0.4831072986125946,0.0,low,low,1,1
+astro_052,debris_disks,Astrophysics > Planetary Science > Planetary Formation > Debris Disks,0.4848056137561798,high,0.640907883644104,0.5850664973258972,0.0,high,high,1,2
+astro_052,disk_instability,Astrophysics > Planetary Science > Planetary Formation > Gravitational Instability,0.26837122440338135,low,0.0,0.5367424488067627,0.0,low,low,1,2
+astro_052,protoplanetary_disks,Astrophysics > Planetary Science > Planetary Formation > Protoplanetary Disks,0.4297623872756958,medium,0.5722098350524902,0.5161988735198975,0.0,high,medium,1,2
+astro_052,planet_interactions,Astrophysics > Planetary Science > Planetary Formation > Planet-Planet Interactions,0.250885009765625,low,0.0,0.50177001953125,0.0,low,low,1,2
+astro_052,solar_system,Astrophysics > Planetary Science > Solar System Bodies,0.4054553031921386,medium,0.5338507294654846,0.4906001687049866,0.0,medium,medium,1,2
+astro_052,transit_method,Astrophysics > Planetary Science > Exoplanets > Transit Photometry,0.3940747737884521,medium,0.4994588792324066,0.4884742200374603,0.0,medium,medium,1,2
+astro_052,exoplanets,Astrophysics > Planetary Science > Exoplanets,0.24225598573684692,low,0.0,0.48451197147369385,0.0,low,low,1,2
+astro_052,planetary,Astrophysics > Planetary Science,0.3823512941598892,low,0.4823869466781616,0.47527042031288147,0.0,medium,low,1,2
+astro_052,direct_imaging,Astrophysics > Planetary Science > Exoplanets > Direct Imaging,0.3925128370523453,medium,0.5181883573532104,0.4741126596927643,0.0,medium,medium,1,2
+astro_052,super_earths,Astrophysics > Planetary Science > Exoplanets > Super-Earths,0.23388153314590454,low,0.0,0.4677630662918091,0.0,low,low,1,2
+astro_053,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.47229070663452144,high,0.5891683101654053,0.5910804271697998,0.0,high,high,2,2
+astro_053,milky_way,Astrophysics > Galactic Astrophysics > Milky Way Structure,0.4447242677211761,medium,0.515017032623291,0.5804383158683777,0.0,high,medium,1,2
+astro_053,galaxy_clustering,Astrophysics > Cosmology > Large-Scale Structure > Galaxy Clustering,0.44803895950317385,medium,0.5311893224716187,0.5773643255233765,0.0,high,medium,1,2
+astro_053,galactic_bulge,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Bulge,0.43654873967170715,medium,0.5410301685333252,0.5484793782234192,0.0,high,medium,1,2
+astro_053,galactic_disk,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Disk,0.273781418800354,low,0.0,0.547562837600708,0.0,low,low,1,2
+astro_053,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.4330313622951507,medium,0.5357533097267151,0.5446107387542725,0.0,high,medium,2,2
+astro_053,galactic_center,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Center,0.2699646055698395,low,0.0,0.539929211139679,0.0,low,low,1,2
+astro_053,stellar_streams,Astrophysics > Galactic Astrophysics > Milky Way Structure > Stellar Streams,0.26519855856895447,low,0.0,0.5303971171379089,0.0,low,low,1,2
+astro_053,stellar_black_holes,Astrophysics > Stellar Physics > Compact Objects > Stellar-Mass Black Holes,0.2606295645236969,low,0.0,0.5212591290473938,0.0,low,low,1,2
+astro_053,mass_transfer,Astrophysics > Stellar Physics > Binary Stars > Mass Transfer Systems,0.2498115450143814,low,0.0,0.4996230900287628,0.0,low,low,1,2
+astro_053,galactic_halo,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Halo,0.43397507071495056,medium,0.5230891704559326,0.5540966391563416,0.0,high,medium,1,2
+astro_053,galaxy_evolution,Astrophysics > Galactic Astrophysics > Galaxy Evolution,0.42026362419128416,medium,0.5059794783592224,0.5369395613670349,0.0,medium,medium,1,2
+astro_053,cloud_collapse,Astrophysics > Galactic Astrophysics > Star Formation > Cloud Collapse,0.2656209170818329,low,0.0,0.5312418341636658,0.0,low,low,1,2
+astro_053,stellar_mass_loss,Astrophysics > Stellar Physics > Stellar Evolution > Stellar Mass Loss,0.4080564737319946,medium,0.5152736306190491,0.5069487690925598,0.0,medium,medium,1,2
+astro_053,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.248458594083786,low,0.0,0.496917188167572,0.0,low,low,1,2
+astro_053,mass_metallicity,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Mass-Metallicity Relation,0.39901699423789977,medium,0.5092281699180603,0.4924970865249634,0.0,medium,medium,1,2
+astro_053,galaxy_mergers,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Galaxy Mergers,0.24519957602024078,low,0.0,0.49039915204048157,0.0,low,low,1,2
+astro_053,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.24373497068881989,low,0.0,0.48746994137763977,0.0,low,low,1,2
+astro_054,planetary_atmospheres,Astrophysics > Planetary Science > Planetary Atmospheres,0.44895867109298704,high,0.5702687501907349,0.5557560920715332,0.0,high,high,2,2
+astro_054,atmospheric_chemistry,Astrophysics > Planetary Science > Planetary Atmospheres > Atmospheric Chemistry,0.43015095591545105,high,0.5365422368049622,0.5383765697479248,0.0,high,high,2,2
+astro_054,carbon_burning,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Carbon and Oxygen Burning,0.2654079794883728,low,0.0,0.5308159589767456,0.0,low,low,1,2
+astro_054,thermal_emission,Astrophysics > Planetary Science > Planetary Atmospheres > Thermal Emission Spectra,0.41622267961502074,medium,0.5060110092163086,0.5288387537002563,0.0,medium,medium,1,2
+astro_054,stellar_atmospheres,Astrophysics > Stellar Physics > Stellar Atmospheres,0.40507733821868896,low,0.5017977952957153,0.5090759992599487,0.0,medium,low,1,2
+astro_054,atmospheric_dynamics,Astrophysics > Planetary Science > Planetary Atmospheres > Atmospheric Dynamics,0.4156796932220459,medium,0.5227306485176086,0.5177209973335266,0.0,medium,medium,2,2
+astro_054,atmospheric_escape,Astrophysics > Planetary Science > Planetary Atmospheres > Atmospheric Escape,0.4000673711299896,low,0.5073254704475403,0.4957394599914551,0.0,medium,low,2,2
+astro_054,chemical_abundances,Astrophysics > Stellar Physics > Stellar Atmospheres > Chemical Abundances,0.23745985329151154,low,0.0,0.47491970658302307,0.0,low,low,1,2
+astro_054,transmission_spectroscopy,Astrophysics > Planetary Science > Planetary Atmospheres > Transmission Spectroscopy,0.23721636831760406,low,0.0,0.47443273663520813,0.0,low,low,1,2
+astro_055,modified_gravity,Astrophysics > Cosmology > Dark Energy > Modified Gravity Theories,0.2565649747848511,low,0.0,0.5131299495697021,0.0,low,high,1,1
+astro_055,disk_instability,Astrophysics > Planetary Science > Planetary Formation > Gravitational Instability,0.2340623140335083,low,0.0,0.4681246280670166,0.0,low,medium,1,1
+astro_056,hii_regions,Astrophysics > Galactic Astrophysics > Interstellar Medium > HII Regions,0.4384529650211334,high,0.5788267850875854,0.5296098589897156,0.0,high,high,1,2
+astro_056,molecular_clouds,Astrophysics > Galactic Astrophysics > Star Formation > Molecular Clouds,0.41813965439796447,medium,0.5449140667915344,0.5093308687210083,0.0,medium,medium,1,2
+astro_056,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.4415327847003937,high,0.5144270062446594,0.5744093656539917,0.0,high,high,1,2
+astro_056,triggered_sf,Astrophysics > Galactic Astrophysics > Star Formation > Triggered Star Formation,0.42270129621028896,medium,0.47437378764152527,0.5607783198356628,0.0,medium,medium,1,2
+astro_056,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.4357326090335846,high,0.5278278589248657,0.5547685027122498,0.0,high,high,1,2
+astro_056,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.2663823366165161,low,0.0,0.5327646732330322,0.0,low,low,1,2
+astro_056,protostellar_evolution,Astrophysics > Galactic Astrophysics > Star Formation > Protostellar Evolution,0.40864228308200834,medium,0.4784366190433502,0.5302225947380066,0.0,medium,medium,1,2
+astro_056,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.4071729093790054,low,0.49454060196876526,0.5176214575767517,0.0,medium,low,1,2
+astro_056,stellar_atmospheres,Astrophysics > Stellar Physics > Stellar Atmospheres,0.2543351948261261,low,0.0,0.5086703896522522,0.0,low,low,1,2
+astro_056,chemical_abundances,Astrophysics > Stellar Physics > Stellar Atmospheres > Chemical Abundances,0.24935400485992432,low,0.0,0.49870800971984863,0.0,low,low,1,2
+astro_056,supernova_remnants,Astrophysics > Galactic Astrophysics > Interstellar Medium > Supernova Remnants,0.3918319821357727,low,0.4840341806411743,0.4932434558868408,0.0,medium,low,1,2
+astro_056,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.24626871943473816,low,0.0,0.4925374388694763,0.0,low,low,1,2
+astro_057,cosmic_rays_ism,Astrophysics > Galactic Astrophysics > Interstellar Medium > Cosmic Ray Interactions,0.46568555831909175,medium,0.5525606274604797,0.5998347401618958,0.0,high,medium,2,2
+astro_057,cmb,Astrophysics > Cosmology > Cosmic Microwave Background,0.28808945417404175,low,0.0,0.5761789083480835,0.0,low,low,1,2
+astro_057,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.4589759886264801,medium,0.5900917053222656,0.5638969540596008,0.0,high,medium,2,2
+astro_057,galaxy_clustering,Astrophysics > Cosmology > Large-Scale Structure > Galaxy Clustering,0.27873554825782776,low,0.0,0.5574710965156555,0.0,low,low,1,2
+astro_057,galaxy_mergers,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Galaxy Mergers,0.43470115065574644,medium,0.522842526435852,0.5556967854499817,0.0,high,medium,1,2
+astro_057,galaxy_evolution,Astrophysics > Galactic Astrophysics > Galaxy Evolution,0.27456650137901306,low,0.0,0.5491330027580261,0.0,low,low,1,2
+astro_057,galactic_bulge,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Bulge,0.43220773339271545,medium,0.5400747060775757,0.5403706431388855,0.0,high,medium,1,2
+astro_057,sz_effect,Astrophysics > Cosmology > Cosmic Microwave Background > Sunyaev-Zeldovich Effect,0.2690843641757965,low,0.0,0.538168728351593,0.0,low,low,1,2
+astro_057,high_z_galaxies,Astrophysics > Galactic Astrophysics > Galaxy Evolution > High-Redshift Galaxies,0.26674866676330566,low,0.0,0.5334973335266113,0.0,low,low,1,2
+astro_057,cosmology,Astrophysics > Cosmology,0.26527664065361023,low,0.0,0.5305532813072205,0.0,low,low,1,2
+astro_057,galactic_halo,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Halo,0.4860753774642944,high,0.6077067255973816,0.6075267195701599,0.0,high,high,1,2
+astro_057,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.45063158869743347,medium,0.5719918012619019,0.5580680966377258,0.0,high,medium,1,2
+astro_057,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.4208084285259247,medium,0.5268474221229553,0.5255084037780762,0.0,medium,medium,1,2
+astro_057,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.43166701793670653,medium,0.5632970333099365,0.5253558158874512,0.0,high,medium,1,2
+astro_057,triggered_sf,Astrophysics > Galactic Astrophysics > Star Formation > Triggered Star Formation,0.2565230131149292,low,0.0,0.5130460262298584,0.0,low,low,1,2
+astro_057,stellar_winds,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Winds,0.25276196002960205,low,0.0,0.5055239200592041,0.0,low,low,1,2
+astro_057,cloud_collapse,Astrophysics > Galactic Astrophysics > Star Formation > Cloud Collapse,0.4055604666471481,medium,0.5226013660430908,0.4975601136684418,0.0,medium,medium,1,2
+astro_057,mass_metallicity,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Mass-Metallicity Relation,0.40004279315471647,low,0.521638810634613,0.48710229992866516,0.0,medium,low,1,2
+astro_058,eclipsing_binaries,Astrophysics > Stellar Physics > Binary Stars > Eclipsing Binaries,0.43542619943618777,high,0.5258904695510864,0.5553181171417236,0.0,high,high,1,1
+astro_059,red_giants,Astrophysics > Stellar Physics > Stellar Evolution > Red Giant Branch,0.5017076373100281,high,0.5927013158798218,0.6477944850921631,0.0,high,high,1,2
+astro_059,asymptotic_giants,Astrophysics > Stellar Physics > Stellar Evolution > Asymptotic Giant Branch,0.4352439045906067,medium,0.5200830101966858,0.5584380030632019,0.0,high,medium,1,2
+astro_059,chemical_abundances,Astrophysics > Stellar Physics > Stellar Atmospheres > Chemical Abundances,0.3921633154153824,medium,0.5027212500572205,0.4826938807964325,0.0,medium,medium,2,2
+astro_059,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.3749361455440521,low,0.4850325882434845,0.45885273814201355,0.0,medium,low,1,2
+astro_059,core_accretion,Astrophysics > Planetary Science > Planetary Formation > Core Accretion Model,0.2657703161239624,low,0.0,0.5315406322479248,0.0,low,low,1,2
+astro_059,stellar_atmospheres,Astrophysics > Stellar Physics > Stellar Atmospheres,0.39712210595607755,medium,0.4754888713359833,0.5089508891105652,0.0,medium,medium,1,2
+astro_059,planetary_atmospheres,Astrophysics > Planetary Science > Planetary Atmospheres,0.23897801339626312,low,0.0,0.47795602679252625,0.0,low,low,1,2
+astro_059,gas_giants,Astrophysics > Planetary Science > Solar System Bodies > Gas Giants,0.37472403347492217,low,0.47319135069847107,0.4655332565307617,0.0,low,low,1,2
+astro_060,bh_shadows,Astrophysics > High-Energy Astrophysics > Black Holes > Black Hole Shadows,0.3889255613088608,medium,0.47979089617729187,0.48997658491134644,0.0,medium,high,2,2
+astro_060,black_holes,Astrophysics > High-Energy Astrophysics > Black Holes,0.2503054141998291,low,0.0,0.5006108283996582,0.0,low,medium,1,2
+astro_060,accretion_disks,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Accretion Disk Physics,0.24508176743984222,low,0.0,0.49016353487968445,0.0,low,low,1,2
+astro_060,bh_formation,Astrophysics > High-Energy Astrophysics > Black Holes > Black Hole Formation,0.24298137426376343,low,0.0,0.48596274852752686,0.0,low,low,1,2
+astro_060,stellar_black_holes,Astrophysics > Stellar Physics > Compact Objects > Stellar-Mass Black Holes,0.2385118305683136,low,0.0,0.4770236611366272,0.0,low,low,1,2
+astro_061,transmission_spectroscopy,Astrophysics > Planetary Science > Planetary Atmospheres > Transmission Spectroscopy,0.4245584845542908,high,0.496127188205719,0.5514406561851501,0.0,high,high,1,1
+astro_061,planetary_atmospheres,Astrophysics > Planetary Science > Planetary Atmospheres,0.40350746810436244,medium,0.48323193192481995,0.517075777053833,0.0,medium,medium,1,1
+astro_061,atmospheric_chemistry,Astrophysics > Planetary Science > Planetary Atmospheres > Atmospheric Chemistry,0.4108780801296234,medium,0.5195415616035461,0.5100312232971191,0.0,medium,high,1,1
+astro_061,atmospheric_escape,Astrophysics > Planetary Science > Planetary Atmospheres > Atmospheric Escape,0.3895289957523346,low,0.4717699885368347,0.49599599838256836,0.0,medium,low,1,1
+astro_061,atmospheric_dynamics,Astrophysics > Planetary Science > Planetary Atmospheres > Atmospheric Dynamics,0.24329589307308197,low,0.0,0.48659178614616394,0.0,low,low,1,1
+astro_061,thermal_emission,Astrophysics > Planetary Science > Planetary Atmospheres > Thermal Emission Spectra,0.2413962483406067,low,0.0,0.4827924966812134,0.0,low,low,1,1
+astro_061,exoplanets,Astrophysics > Planetary Science > Exoplanets,0.23329120874404907,low,0.0,0.46658241748809814,0.0,low,low,1,1
+astro_062,contact_binaries,Astrophysics > Stellar Physics > Binary Stars > Contact Binaries,0.5411712050437927,high,0.6690534353256226,0.6809103488922119,0.0,high,high,1,2
+astro_062,binary_stars,Astrophysics > Stellar Physics > Binary Stars,0.49343960285186766,medium,0.6157577633857727,0.6174245476722717,0.0,high,medium,1,2
+astro_062,symbiotic_stars,Astrophysics > Stellar Physics > Binary Stars > Symbiotic Stars,0.44634607434272766,medium,0.5301365256309509,0.5746102333068848,0.0,high,medium,1,2
+astro_062,spectroscopic_binaries,Astrophysics > Stellar Physics > Binary Stars > Spectroscopic Binaries,0.4451703667640686,low,0.5506648421287537,0.559941828250885,0.0,high,low,1,2
+astro_062,common_envelope,Astrophysics > Stellar Physics > Binary Stars > Common Envelope Evolution,0.4529082775115967,medium,0.6545862555503845,0.5130648016929626,0.0,high,medium,2,2
+astro_062,eclipsing_binaries,Astrophysics > Stellar Physics > Binary Stars > Eclipsing Binaries,0.412149041891098,low,0.5330848693847656,0.5044471621513367,0.0,medium,low,1,2
+astro_062,mass_transfer,Astrophysics > Stellar Physics > Binary Stars > Mass Transfer Systems,0.3930776596069336,low,0.4927731156349182,0.49049144983291626,0.0,medium,low,1,2
+astro_062,stellar,Astrophysics > Stellar Physics,0.23087874054908752,low,0.0,0.46175748109817505,0.0,low,low,1,2
+astro_063,high_z_galaxies,Astrophysics > Galactic Astrophysics > Galaxy Evolution > High-Redshift Galaxies,0.42695199847221377,medium,0.5455904006958008,0.526549756526947,0.0,high,medium,1,2
+astro_063,redshift_surveys,Astrophysics > Cosmology > Large-Scale Structure > Redshift Surveys,0.4036722034215927,medium,0.5130788683891296,0.49949708580970764,0.0,medium,medium,1,2
+astro_063,galaxy_clustering,Astrophysics > Cosmology > Large-Scale Structure > Galaxy Clustering,0.4039760887622833,medium,0.5093680024147034,0.5023313760757446,0.0,medium,medium,2,2
+astro_063,galactic_halo,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Halo,0.46825011968612673,high,0.512645423412323,0.6289129853248596,0.0,high,high,1,2
+astro_063,mass_metallicity,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Mass-Metallicity Relation,0.26706022024154663,low,0.0,0.5341204404830933,0.0,low,low,1,2
+astro_063,galactic_bulge,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Bulge,0.26369017362594604,low,0.0,0.5273803472518921,0.0,low,low,1,2
+astro_063,milky_way,Astrophysics > Galactic Astrophysics > Milky Way Structure,0.25228357315063477,low,0.0,0.5045671463012695,0.0,low,low,1,2
+astro_063,dm_halos,Astrophysics > Cosmology > Dark Matter > Dark Matter Halos,0.24940340220928192,low,0.0,0.49880680441856384,0.0,low,low,1,2
+astro_063,galactic_disk,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Disk,0.24535076320171356,low,0.0,0.4907015264034271,0.0,low,low,1,2
+astro_063,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.2407151609659195,low,0.0,0.481430321931839,0.0,low,low,1,2
+astro_063,spiral_arms,Astrophysics > Galactic Astrophysics > Milky Way Structure > Spiral Arm Structure,0.24024391174316406,low,0.0,0.4804878234863281,0.0,low,low,1,2
+astro_063,cloud_collapse,Astrophysics > Galactic Astrophysics > Star Formation > Cloud Collapse,0.2388727217912674,low,0.0,0.4777454435825348,0.0,low,low,1,2
+astro_064,spectroscopic_binaries,Astrophysics > Stellar Physics > Binary Stars > Spectroscopic Binaries,0.23250582814216614,low,0.0,0.4650116562843323,0.0,low,low,1,2
+astro_064,s_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Slow Neutron Capture,0.28152525424957275,low,0.0,0.5630505084991455,0.0,low,high,1,2
+astro_064,supernova_remnants,Astrophysics > Galactic Astrophysics > Interstellar Medium > Supernova Remnants,0.2750122547149658,low,0.0,0.5500245094299316,0.0,low,high,1,2
+astro_064,r_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Rapid Neutron Capture,0.2747763395309448,low,0.0,0.5495526790618896,0.0,low,medium,1,2
+astro_064,neutron_stars,Astrophysics > High-Energy Astrophysics > Neutron Stars,0.269917368888855,low,0.0,0.53983473777771,0.0,low,low,1,2
+astro_064,ns_mergers,Astrophysics > High-Energy Astrophysics > Neutron Stars > Neutron Star Mergers,0.25244924426078796,low,0.0,0.5048984885215759,0.0,low,low,1,2
+astro_065,stellar_winds,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Winds,0.4398555338382721,high,0.5560690760612488,0.5460696220397949,0.0,high,high,2,2
+astro_065,pulsars,Astrophysics > Stellar Physics > Compact Objects > Pulsars,0.4084973394870758,medium,0.5136187076568604,0.5088234543800354,0.0,medium,medium,2,2
+astro_065,chromospheres,Astrophysics > Stellar Physics > Stellar Atmospheres > Chromospheres and Coronae,0.23783443868160248,low,0.0,0.47566887736320496,0.0,low,low,1,2
+astro_065,magnetic_fields,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Magnetic Fields,0.3864887207746506,medium,0.5026426911354065,0.47139182686805725,0.0,medium,medium,1,2
+astro_065,xray_astronomy,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy,0.2580699622631073,low,0.0,0.5161399245262146,0.0,low,low,1,2
+astro_065,agn_jets,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Relativistic Jets,0.25154513120651245,low,0.0,0.5030902624130249,0.0,low,low,1,2
+astro_065,x_ray_binaries,Astrophysics > Stellar Physics > Compact Objects > X-Ray Binaries,0.24860738217830658,low,0.0,0.49721476435661316,0.0,low,low,1,2
+astro_065,astro,Astrophysics,0.24774979054927826,low,0.0,0.4954995810985565,0.0,low,low,1,2
+astro_065,glitches,Astrophysics > High-Energy Astrophysics > Neutron Stars > Pulsar Glitches,0.24564775824546814,low,0.0,0.4912955164909363,0.0,low,low,1,2
+astro_065,millisecond_pulsars,Astrophysics > High-Energy Astrophysics > Neutron Stars > Millisecond Pulsars,0.24063478410243988,low,0.0,0.48126956820487976,0.0,low,low,1,2
+astro_065,xray_transients,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Transients,0.23838870227336884,low,0.0,0.47677740454673767,0.0,low,low,1,2
+astro_065,xray_spectroscopy,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Spectroscopy,0.23784571886062622,low,0.0,0.47569143772125244,0.0,low,low,1,2
+astro_066,protoplanetary_disks,Astrophysics > Planetary Science > Planetary Formation > Protoplanetary Disks,0.4516861975193024,high,0.578156590461731,0.5564784407615662,0.0,high,high,2,2
+astro_066,thermal_emission,Astrophysics > Planetary Science > Planetary Atmospheres > Thermal Emission Spectra,0.396848538517952,medium,0.48004212975502014,0.5056717991828918,0.0,medium,medium,1,2
+astro_066,direct_imaging,Astrophysics > Planetary Science > Exoplanets > Direct Imaging,0.39852155148983004,medium,0.5140425562858582,0.48861756920814514,0.0,medium,medium,1,2
+astro_066,hot_jupiters,Astrophysics > Planetary Science > Exoplanets > Hot Jupiters,0.43118988275527953,high,0.552343487739563,0.5309736728668213,0.0,high,high,2,2
+astro_066,transit_method,Astrophysics > Planetary Science > Exoplanets > Transit Photometry,0.37719071507453916,low,0.47915470600128174,0.4668886065483093,0.0,medium,low,1,2
+astro_066,planet_formation,Astrophysics > Planetary Science > Planetary Formation,0.4467368721961975,high,0.5026951432228088,0.5918566584587097,0.0,high,high,1,2
+astro_066,planet_interactions,Astrophysics > Planetary Science > Planetary Formation > Planet-Planet Interactions,0.2678195834159851,low,0.0,0.5356391668319702,0.0,low,low,1,2
+astro_066,debris_disks,Astrophysics > Planetary Science > Planetary Formation > Debris Disks,0.39214290082454684,low,0.4844983220100403,0.49358680844306946,0.0,medium,low,1,2
+astro_066,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.2376297116279602,low,0.0,0.4752594232559204,0.0,low,low,1,2
+astro_066,planetary,Astrophysics > Planetary Science,0.23174196481704712,low,0.0,0.46348392963409424,0.0,low,low,1,2
+astro_067,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.5048574984073639,high,0.6194148063659668,0.6380661129951477,0.0,high,high,1,2
+astro_067,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.43349387049674987,medium,0.5472556352615356,0.5386343598365784,0.0,high,medium,1,2
+astro_067,galaxy_clustering,Astrophysics > Cosmology > Large-Scale Structure > Galaxy Clustering,0.41680183410644533,medium,0.5116065144538879,0.5266397595405579,0.0,medium,medium,1,2
+astro_067,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.42449459433555603,medium,0.5435177683830261,0.5228785276412964,0.0,high,medium,1,2
+astro_067,stellar,Astrophysics > Stellar Physics,0.4152483522891998,low,0.5306575298309326,0.5121021866798401,0.0,medium,low,2,2
+astro_067,asymptotic_giants,Astrophysics > Stellar Physics > Stellar Evolution > Asymptotic Giant Branch,0.2523898780345917,low,0.0,0.5047797560691833,0.0,low,low,1,2
+astro_067,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.40672678947448726,low,0.5320077538490295,0.4942489266395569,0.0,medium,low,1,2
+astro_067,triggered_sf,Astrophysics > Galactic Astrophysics > Star Formation > Triggered Star Formation,0.24618792533874512,low,0.0,0.49237585067749023,0.0,low,low,1,2
+astro_067,binary_stars,Astrophysics > Stellar Physics > Binary Stars,0.2433171272277832,low,0.0,0.4866342544555664,0.0,low,low,1,2
+astro_067,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.4167752921581268,medium,0.559819757938385,0.49765872955322266,0.0,medium,medium,2,2
+astro_067,stellar_black_holes,Astrophysics > Stellar Physics > Compact Objects > Stellar-Mass Black Holes,0.4575862348079681,medium,0.5430282354354858,0.5893555283546448,0.0,high,medium,1,2
+astro_067,stellar_mass_loss,Astrophysics > Stellar Physics > Stellar Evolution > Stellar Mass Loss,0.42361174821853637,medium,0.5246729254722595,0.532419741153717,0.0,high,medium,1,2
+astro_067,supernova_remnants,Astrophysics > Galactic Astrophysics > Interstellar Medium > Supernova Remnants,0.23773358762264252,low,0.0,0.47546717524528503,0.0,low,low,1,2
+astro_067,intermediate_mass_bh,Astrophysics > High-Energy Astrophysics > Black Holes > Intermediate-Mass Black Holes,0.23633570969104767,low,0.0,0.47267141938209534,0.0,low,low,1,2
+astro_068,grb,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts,0.261951208114624,low,0.0,0.523902416229248,0.0,low,high,1,1
+astro_068,stellar,Astrophysics > Stellar Physics,0.2530677914619446,low,0.0,0.5061355829238892,0.0,low,medium,1,1
+astro_068,millisecond_pulsars,Astrophysics > High-Energy Astrophysics > Neutron Stars > Millisecond Pulsars,0.25016671419143677,low,0.0,0.5003334283828735,0.0,low,medium,1,1
+astro_068,stellar_winds,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Winds,0.24567414820194244,low,0.0,0.4913482964038849,0.0,low,low,1,1
+astro_068,astro,Astrophysics,0.24444769322872162,low,0.0,0.48889538645744324,0.0,low,low,1,1
+astro_068,pulsars,Astrophysics > Stellar Physics > Compact Objects > Pulsars,0.24267210066318512,low,0.0,0.48534420132637024,0.0,low,low,1,1
+astro_068,glitches,Astrophysics > High-Energy Astrophysics > Neutron Stars > Pulsar Glitches,0.24146457016468048,low,0.0,0.48292914032936096,0.0,low,low,1,1
+astro_068,agn_jets,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Relativistic Jets,0.24011892080307007,low,0.0,0.48023784160614014,0.0,low,low,1,1
+astro_068,chromospheres,Astrophysics > Stellar Physics > Stellar Atmospheres > Chromospheres and Coronae,0.2379477173089981,low,0.0,0.4758954346179962,0.0,low,low,1,1
+astro_068,stellar_atmospheres,Astrophysics > Stellar Physics > Stellar Atmospheres,0.23404765129089355,low,0.0,0.4680953025817871,0.0,low,low,1,1
+astro_069,high_z_galaxies,Astrophysics > Galactic Astrophysics > Galaxy Evolution > High-Redshift Galaxies,0.4510993182659149,medium,0.5358710289001465,0.5806760191917419,0.0,high,medium,1,2
+astro_069,galaxy_clustering,Astrophysics > Cosmology > Large-Scale Structure > Galaxy Clustering,0.44037703871726985,medium,0.5252009034156799,0.5656335353851318,0.0,high,medium,1,2
+astro_069,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.4748904287815094,high,0.6113726496696472,0.5829572677612305,0.0,high,high,2,2
+astro_069,cloud_collapse,Astrophysics > Galactic Astrophysics > Star Formation > Cloud Collapse,0.4235772669315338,medium,0.5358395576477051,0.5256507992744446,0.0,high,medium,2,2
+astro_069,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.43006524443626404,medium,0.5324375629425049,0.5406679511070251,0.0,high,medium,2,2
+astro_069,hii_regions,Astrophysics > Galactic Astrophysics > Interstellar Medium > HII Regions,0.24493780732154846,low,0.0,0.4898756146430969,0.0,low,low,1,2
+astro_069,xray_clusters,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > Galaxy Cluster X-Ray Emission,0.3902322471141815,low,0.49510279297828674,0.483402818441391,0.0,medium,low,1,2
+astro_069,redshift_surveys,Astrophysics > Cosmology > Large-Scale Structure > Redshift Surveys,0.24137625098228455,low,0.0,0.4827525019645691,0.0,low,low,1,2
+astro_069,galaxy_evolution,Astrophysics > Galactic Astrophysics > Galaxy Evolution,0.23919770121574402,low,0.0,0.47839540243148804,0.0,low,low,2,2
+astro_069,galactic_halo,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Halo,0.23831890523433685,low,0.0,0.4766378104686737,0.0,low,low,1,2
+astro_069,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.4264297246932983,medium,0.5315832495689392,0.5339094996452332,0.0,high,medium,1,2
+astro_069,stellar_mass_loss,Astrophysics > Stellar Physics > Stellar Evolution > Stellar Mass Loss,0.2538621425628662,low,0.0,0.5077242851257324,0.0,low,low,1,2
+astro_069,triggered_sf,Astrophysics > Galactic Astrophysics > Star Formation > Triggered Star Formation,0.3956573188304901,medium,0.4824180006980896,0.5018638372421265,0.0,medium,medium,1,2
+astro_069,protostellar_evolution,Astrophysics > Galactic Astrophysics > Star Formation > Protostellar Evolution,0.40432201027870174,medium,0.5128377079963684,0.5009413957595825,0.0,medium,medium,1,2
+astro_069,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.231447234749794,low,0.0,0.462894469499588,0.0,low,low,1,2
+astro_069,galaxy_mergers,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Galaxy Mergers,0.2310706079006195,low,0.0,0.462141215801239,0.0,low,low,1,2
+astro_070,galaxy_clustering,Astrophysics > Cosmology > Large-Scale Structure > Galaxy Clustering,0.23773856461048126,low,0.0,0.4754771292209625,0.0,low,high,1,1
+astro_070,hii_regions,Astrophysics > Galactic Astrophysics > Interstellar Medium > HII Regions,0.23054245114326477,low,0.0,0.46108490228652954,0.0,low,medium,1,1
+astro_071,high_z_galaxies,Astrophysics > Galactic Astrophysics > Galaxy Evolution > High-Redshift Galaxies,0.39720075726509096,medium,0.5086888670921326,0.48918819427490234,0.0,medium,high,2,2
+astro_071,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.25605571269989014,low,0.0,0.5121114253997803,0.0,low,medium,1,2
+astro_071,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.2519347071647644,low,0.0,0.5038694143295288,0.0,low,medium,1,2
+astro_071,cloud_collapse,Astrophysics > Galactic Astrophysics > Star Formation > Cloud Collapse,0.24661731719970703,low,0.0,0.49323463439941406,0.0,low,medium,1,2
+astro_071,dust,Astrophysics > Galactic Astrophysics > Interstellar Medium > Interstellar Dust,0.24534694850444794,low,0.0,0.4906938970088959,0.0,low,medium,1,2
+astro_071,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.2442896068096161,low,0.0,0.4885792136192322,0.0,low,low,1,2
+astro_071,molecular_clouds,Astrophysics > Galactic Astrophysics > Star Formation > Molecular Clouds,0.24237240850925446,low,0.0,0.4847448170185089,0.0,low,low,1,2
+astro_071,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.2413242906332016,low,0.0,0.4826485812664032,0.0,low,low,1,2
+astro_071,mass_metallicity,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Mass-Metallicity Relation,0.23943307995796204,low,0.0,0.4788661599159241,0.0,low,low,1,2
+astro_071,galaxy_clustering,Astrophysics > Cosmology > Large-Scale Structure > Galaxy Clustering,0.23182539641857147,low,0.0,0.46365079283714294,0.0,low,low,1,2
+astro_074,horizontal_branch,Astrophysics > Stellar Physics > Stellar Evolution > Horizontal Branch Stars,0.4488503813743591,high,0.5862573385238647,0.5459463596343994,0.0,high,high,1,2
+astro_074,spectroscopic_binaries,Astrophysics > Stellar Physics > Binary Stars > Spectroscopic Binaries,0.41152592897415163,medium,0.5104832649230957,0.5167618989944458,0.0,medium,medium,1,2
+astro_074,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.4565699934959412,high,0.5794088840484619,0.5654946565628052,0.0,high,high,2,2
+astro_074,red_giants,Astrophysics > Stellar Physics > Stellar Evolution > Red Giant Branch,0.40699322819709777,medium,0.5155411958694458,0.5046617388725281,0.0,medium,medium,1,2
+astro_074,binary_stars,Astrophysics > Stellar Physics > Binary Stars,0.3964420258998871,medium,0.4986989498138428,0.4936646819114685,0.0,medium,medium,1,2
+astro_074,stellar_streams,Astrophysics > Galactic Astrophysics > Milky Way Structure > Stellar Streams,0.3973729908466339,medium,0.5157241225242615,0.48531150817871094,0.0,medium,medium,1,2
+astro_074,asymptotic_giants,Astrophysics > Stellar Physics > Stellar Evolution > Asymptotic Giant Branch,0.39245106279850006,low,0.5109953880310059,0.4783048927783966,0.0,medium,low,1,2
+astro_074,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.38409344255924227,low,0.499467134475708,0.4685066044330597,0.0,medium,low,1,2
+astro_074,helium_burning,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Helium Burning,0.2559511959552765,low,0.0,0.511902391910553,0.0,low,low,2,2
+astro_074,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.44961547255516054,high,0.5317046046257019,0.5802081823348999,0.0,high,high,1,2
+astro_074,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.406010115146637,medium,0.4993884563446045,0.5123871564865112,0.0,medium,medium,1,2
+astro_074,triggered_sf,Astrophysics > Galactic Astrophysics > Star Formation > Triggered Star Formation,0.25552302598953247,low,0.0,0.5110460519790649,0.0,low,low,1,2
+astro_074,cloud_collapse,Astrophysics > Galactic Astrophysics > Star Formation > Cloud Collapse,0.24951696395874023,low,0.0,0.49903392791748047,0.0,low,low,1,2
+astro_074,supernova_remnants,Astrophysics > Galactic Astrophysics > Interstellar Medium > Supernova Remnants,0.24666517972946167,low,0.0,0.49333035945892334,0.0,low,low,1,2
+astro_074,molecular_clouds,Astrophysics > Galactic Astrophysics > Star Formation > Molecular Clouds,0.24644052982330322,low,0.0,0.49288105964660645,0.0,low,low,1,2
+astro_074,protostellar_evolution,Astrophysics > Galactic Astrophysics > Star Formation > Protostellar Evolution,0.24638235569000244,low,0.0,0.4927647113800049,0.0,low,low,1,2
+astro_074,imf,Astrophysics > Galactic Astrophysics > Star Formation > Initial Mass Function,0.23925480246543884,low,0.0,0.4785096049308777,0.0,low,low,1,2
+astro_075,pulsars,Astrophysics > Stellar Physics > Compact Objects > Pulsars,0.42784814834594725,low,0.5382130146026611,0.5327684879302979,0.0,high,low,2,2
+astro_075,millisecond_pulsars,Astrophysics > High-Energy Astrophysics > Neutron Stars > Millisecond Pulsars,0.49612178802490237,high,0.5959920883178711,0.634648323059082,0.0,high,high,2,2
+astro_075,gravitational_waves_cosmo,Astrophysics > Cosmology > Early Universe > Primordial Gravitational Waves,0.23896940052509308,low,0.0,0.47793880105018616,0.0,low,low,1,2
+astro_075,glitches,Astrophysics > High-Energy Astrophysics > Neutron Stars > Pulsar Glitches,0.4877080142498016,high,0.5757393836975098,0.6299723982810974,0.0,high,high,2,2
+astro_075,pulsar_timing,Astrophysics > High-Energy Astrophysics > Neutron Stars > Pulsar Timing Arrays,0.43898080587387084,medium,0.5167583227157593,0.5679066181182861,0.0,high,medium,1,2
+astro_075,neutron_stars,Astrophysics > High-Energy Astrophysics > Neutron Stars,0.4201859325170517,low,0.49308720231056213,0.5445195436477661,0.0,medium,low,1,2
+astro_075,neutron_star_physics,Astrophysics > Stellar Physics > Compact Objects > Neutron Star Physics,0.2355455607175827,low,0.0,0.4710911214351654,0.0,low,low,1,2
+astro_076,big_bang_nucleosynthesis,Astrophysics > Cosmology > Early Universe > Big Bang Nucleosynthesis,0.27580612897872925,low,0.0,0.5516122579574585,0.0,low,high,1,1
+astro_076,nucleosynthesis,Astrophysics > Stellar Physics > Stellar Nucleosynthesis,0.24766738712787628,low,0.0,0.49533477425575256,0.0,low,medium,1,1
+astro_076,hydrogen_burning,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Hydrogen Burning,0.2432767003774643,low,0.0,0.4865534007549286,0.0,low,low,1,1
+astro_076,helium_burning,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Helium Burning,0.2389879822731018,low,0.0,0.4779759645462036,0.0,low,low,1,1
+astro_076,explosive_nucleosynthesis,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Explosive Nucleosynthesis,0.23768149316310883,low,0.0,0.47536298632621765,0.0,low,low,1,1
+astro_077,hot_jupiters,Astrophysics > Planetary Science > Exoplanets > Hot Jupiters,0.5135608911514282,high,0.6435742974281311,0.6409772038459778,0.0,high,high,1,1
+astro_077,thermal_emission,Astrophysics > Planetary Science > Planetary Atmospheres > Thermal Emission Spectra,0.4230185031890869,medium,0.5032176375389099,0.5441064238548279,0.0,high,medium,1,1
+astro_077,atmospheric_dynamics,Astrophysics > Planetary Science > Planetary Atmospheres > Atmospheric Dynamics,0.40761473774909973,medium,0.497761070728302,0.5165728330612183,0.0,medium,medium,1,1
+astro_077,planetary_atmospheres,Astrophysics > Planetary Science > Planetary Atmospheres,0.40526239573955536,medium,0.499049574136734,0.5110950469970703,0.0,medium,medium,1,1
+astro_077,stellar_atmospheres,Astrophysics > Stellar Physics > Stellar Atmospheres,0.240148663520813,low,0.0,0.480297327041626,0.0,low,low,1,1
+astro_077,atmospheric_chemistry,Astrophysics > Planetary Science > Planetary Atmospheres > Atmospheric Chemistry,0.23716047406196594,low,0.0,0.4743209481239319,0.0,low,low,1,1
+astro_077,spectral_classification,Astrophysics > Stellar Physics > Stellar Atmospheres > Spectral Classification,0.2341628223657608,low,0.0,0.4683256447315216,0.0,low,low,1,1
+astro_077,transmission_spectroscopy,Astrophysics > Planetary Science > Planetary Atmospheres > Transmission Spectroscopy,0.23323744535446167,low,0.0,0.46647489070892334,0.0,low,low,1,1
+astro_078,stellar_rotation,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Rotation,0.45008336305618285,high,0.5471888780593872,0.5718533992767334,0.0,high,high,2,2
+astro_078,horizontal_branch,Astrophysics > Stellar Physics > Stellar Evolution > Horizontal Branch Stars,0.40552603304386137,medium,0.4912075102329254,0.5163275599479675,0.0,medium,medium,2,2
+astro_078,common_envelope,Astrophysics > Stellar Physics > Binary Stars > Common Envelope Evolution,0.4429130136966705,high,0.5137441158294678,0.5775795578956604,0.0,high,high,1,2
+astro_078,stellar,Astrophysics > Stellar Physics,0.4053362339735031,medium,0.48055699467658997,0.5223382711410522,0.0,medium,medium,1,2
+astro_078,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.39700722098350527,medium,0.47223079204559326,0.5106759667396545,0.0,medium,medium,1,2
+astro_078,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.2538180351257324,low,0.0,0.5076360702514648,0.0,low,low,1,2
+astro_078,main_sequence,Astrophysics > Stellar Physics > Stellar Evolution > Main Sequence Evolution,0.25197702646255493,low,0.0,0.5039540529251099,0.0,low,low,1,2
+astro_078,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.24695096909999847,low,0.0,0.49390193819999695,0.0,low,low,1,2
+astro_078,binary_stars,Astrophysics > Stellar Physics > Binary Stars,0.3843905210494995,low,0.48509737849235535,0.4777226150035858,0.0,medium,low,1,2
+astro_078,astro,Astrophysics,0.23838531970977783,low,0.0,0.47677063941955566,0.0,low,low,1,2
+astro_079,xray_astronomy,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy,0.4485342264175415,high,0.5939210653305054,0.5407158136367798,0.0,high,high,2,2
+astro_079,quasars,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Quasars,0.4331125557422638,medium,0.5476080179214478,0.5376603007316589,0.0,high,medium,1,2
+astro_079,xray_clusters,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > Galaxy Cluster X-Ray Emission,0.4337556004524231,medium,0.5744447112083435,0.5228443741798401,0.0,high,medium,2,2
+astro_079,x_ray_binaries,Astrophysics > Stellar Physics > Compact Objects > X-Ray Binaries,0.42267708182334895,low,0.5456020832061768,0.5179929137229919,0.0,medium,low,2,2
+astro_079,xray_spectroscopy,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Spectroscopy,0.43656226992607117,high,0.5610281229019165,0.5365076661109924,0.0,high,high,2,2
+astro_079,xray_transients,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Transients,0.42157030701637266,low,0.5418418049812317,0.5180355310440063,0.0,medium,low,2,2
+astro_079,xray_background,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > Cosmic X-Ray Background,0.4151419848203659,low,0.5512019991874695,0.4995627701282501,0.0,medium,low,2,2
+astro_079,xray_timing,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Timing,0.4278519690036774,low,0.5469735264778137,0.5275198221206665,0.0,high,low,2,2
+astro_079,agn_jets,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Relativistic Jets,0.43401531577110286,high,0.51449054479599,0.5593363046646118,0.0,high,high,2,2
+astro_079,xray_binaries,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Binary Systems,0.39717601537704467,low,0.5069688558578491,0.4901707172393799,0.0,medium,low,1,2
+astro_079,grb_jets,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts > GRB Jet Physics,0.24293045699596405,low,0.0,0.4858609139919281,0.0,low,low,1,2
+astro_080,supernova_remnants,Astrophysics > Galactic Astrophysics > Interstellar Medium > Supernova Remnants,0.40686347484588625,medium,0.5052046775817871,0.5106041431427002,0.0,medium,medium,1,2
+astro_080,cloud_collapse,Astrophysics > Galactic Astrophysics > Star Formation > Cloud Collapse,0.41075181365013125,medium,0.5297033786773682,0.5036816000938416,0.0,medium,high,1,2
+astro_080,explosive_nucleosynthesis,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Explosive Nucleosynthesis,0.38379921615123747,low,0.49954962730407715,0.4678686559200287,0.0,medium,low,2,2
+astro_080,disk_instability,Astrophysics > Planetary Science > Planetary Formation > Gravitational Instability,0.2550828754901886,low,0.0,0.5101657509803772,0.0,low,low,1,2
+astro_080,debris_disks,Astrophysics > Planetary Science > Planetary Formation > Debris Disks,0.23284843564033508,low,0.0,0.46569687128067017,0.0,low,low,1,2
+astro_081,dark_matter,Astrophysics > Cosmology > Dark Matter,0.43616199493408203,high,0.5172741413116455,0.5619595050811768,0.0,high,high,1,1
+astro_081,wimps,Astrophysics > Cosmology > Dark Matter > Weakly Interacting Massive Particles,0.2707136273384094,low,0.0,0.5414272546768188,0.0,low,low,1,1
+astro_081,dm_simulations,Astrophysics > Cosmology > Dark Matter > N-Body Simulations,0.4047685742378235,medium,0.47845548391342163,0.522463858127594,0.0,medium,medium,1,1
+astro_081,dark_energy,Astrophysics > Cosmology > Dark Energy,0.4163843631744385,medium,0.5253266096115112,0.5175727605819702,0.0,medium,high,1,1
+astro_081,dm_halos,Astrophysics > Cosmology > Dark Matter > Dark Matter Halos,0.25595393776893616,low,0.0,0.5119078755378723,0.0,low,low,1,1
+astro_081,cosmological_constant,Astrophysics > Cosmology > Dark Energy > Cosmological Constant,0.4022601157426834,medium,0.4908609092235565,0.5100036859512329,0.0,medium,medium,1,1
+astro_081,dm_detection,Astrophysics > Cosmology > Dark Matter > Direct Detection Experiments,0.250169962644577,low,0.0,0.500339925289154,0.0,low,low,1,1
+astro_081,equation_of_state,Astrophysics > Cosmology > Dark Energy > Equation of State,0.23431995511054993,low,0.0,0.46863991022109985,0.0,low,low,1,1
+astro_081,primordial_black_holes,Astrophysics > Cosmology > Dark Matter > Primordial Black Holes,0.22916817665100098,low,0.0,0.45833635330200195,0.0,low,low,1,1
+astro_083,exoplanets,Astrophysics > Planetary Science > Exoplanets,0.5367870569229126,high,0.6567724347114563,0.6795106530189514,0.0,high,high,1,2
+astro_083,super_earths,Astrophysics > Planetary Science > Exoplanets > Super-Earths,0.4911257028579712,high,0.6309393048286438,0.6036878228187561,0.0,high,high,2,2
+astro_083,radial_velocity,Astrophysics > Planetary Science > Exoplanets > Radial Velocity Method,0.29870954155921936,low,0.0,0.5974190831184387,0.0,low,low,1,2
+astro_083,habitable_zone,Astrophysics > Planetary Science > Exoplanets > Habitable Zone Planets,0.48166980147361754,high,0.6261420845985413,0.5876543521881104,0.0,high,high,2,2
+astro_083,hot_jupiters,Astrophysics > Planetary Science > Exoplanets > Hot Jupiters,0.46254833340644835,high,0.5722419023513794,0.5817515254020691,0.0,high,high,1,2
+astro_083,transit_method,Astrophysics > Planetary Science > Exoplanets > Transit Photometry,0.4241909563541412,medium,0.5400217175483704,0.5243688821792603,0.0,high,medium,1,2
+astro_083,gas_giants,Astrophysics > Planetary Science > Solar System Bodies > Gas Giants,0.4199553966522217,medium,0.532692551612854,0.520295262336731,0.0,medium,medium,1,2
+astro_083,direct_imaging,Astrophysics > Planetary Science > Exoplanets > Direct Imaging,0.409342098236084,low,0.5119684934616089,0.5115031003952026,0.0,medium,low,1,2
+astro_083,protoplanetary_disks,Astrophysics > Planetary Science > Planetary Formation > Protoplanetary Disks,0.41354302167892454,medium,0.543480634689331,0.5009976625442505,0.0,medium,medium,2,2
+astro_083,planet_interactions,Astrophysics > Planetary Science > Planetary Formation > Planet-Planet Interactions,0.23534809052944183,low,0.0,0.47069618105888367,0.0,low,low,1,2
+astro_083,planet_formation,Astrophysics > Planetary Science > Planetary Formation,0.24161848425865173,low,0.0,0.48323696851730347,0.0,low,low,1,2
+astro_083,planetary_atmospheres,Astrophysics > Planetary Science > Planetary Atmospheres,0.40465916991233825,low,0.5552200078964233,0.4761863350868225,0.0,medium,low,1,2
+astro_083,debris_disks,Astrophysics > Planetary Science > Planetary Formation > Debris Disks,0.2318563014268875,low,0.0,0.463712602853775,0.0,low,low,1,2
+astro_083,core_accretion,Astrophysics > Planetary Science > Planetary Formation > Core Accretion Model,0.23028701543807983,low,0.0,0.46057403087615967,0.0,low,low,1,2
+astro_084,compact_objects,Astrophysics > Stellar Physics > Compact Objects,0.4004565179347992,medium,0.5305832624435425,0.4825630784034729,0.0,medium,medium,1,2
+astro_084,protoplanetary_disks,Astrophysics > Planetary Science > Planetary Formation > Protoplanetary Disks,0.4228874564170837,medium,0.5186074376106262,0.5346104502677917,0.0,medium,medium,2,2
+astro_084,disk_instability,Astrophysics > Planetary Science > Planetary Formation > Gravitational Instability,0.47328954339027407,high,0.5023499131202698,0.6451691389083862,0.0,high,high,1,2
+astro_084,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.4328839063644409,medium,0.48954522609710693,0.5720406770706177,0.0,high,medium,1,2
+astro_084,main_sequence,Astrophysics > Stellar Physics > Stellar Evolution > Main Sequence Evolution,0.2721133828163147,low,0.0,0.5442267656326294,0.0,low,low,1,2
+astro_084,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.40371898412704466,medium,0.4768369793891907,0.521335780620575,0.0,medium,medium,1,2
+astro_084,stellar_mass_loss,Astrophysics > Stellar Physics > Stellar Evolution > Stellar Mass Loss,0.2594670355319977,low,0.0,0.5189340710639954,0.0,low,low,1,2
+astro_084,planet_formation,Astrophysics > Planetary Science > Planetary Formation,0.25178495049476624,low,0.0,0.5035699009895325,0.0,low,low,1,2
+astro_084,asymptotic_giants,Astrophysics > Stellar Physics > Stellar Evolution > Asymptotic Giant Branch,0.25121793150901794,low,0.0,0.5024358630180359,0.0,low,low,1,2
+astro_084,spiral_arms,Astrophysics > Galactic Astrophysics > Milky Way Structure > Spiral Arm Structure,0.2501157820224762,low,0.0,0.5002315640449524,0.0,low,low,1,2
+astro_084,horizontal_branch,Astrophysics > Stellar Physics > Stellar Evolution > Horizontal Branch Stars,0.24709542095661163,low,0.0,0.49419084191322327,0.0,low,low,1,2
+astro_085,xray_clusters,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > Galaxy Cluster X-Ray Emission,0.23353371024131775,low,0.0,0.4670674204826355,0.0,low,high,1,1
+astro_085,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.23047296702861786,low,0.0,0.4609459340572357,0.0,low,low,1,1
+astro_085,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.2292330265045166,low,0.0,0.4584660530090332,0.0,low,low,1,1
+astro_086,planet_interactions,Astrophysics > Planetary Science > Planetary Formation > Planet-Planet Interactions,0.48885380029678344,high,0.5989963412284851,0.6183097958564758,0.0,high,high,2,2
+astro_086,radial_velocity,Astrophysics > Planetary Science > Exoplanets > Radial Velocity Method,0.4218741893768311,medium,0.5207367539405823,0.5313063263893127,0.0,medium,medium,1,2
+astro_086,transit_method,Astrophysics > Planetary Science > Exoplanets > Transit Photometry,0.416619873046875,low,0.5115692019462585,0.5262982249259949,0.0,medium,low,1,2
+astro_086,exoplanets,Astrophysics > Planetary Science > Exoplanets,0.4386143803596496,medium,0.5566706657409668,0.5432263612747192,0.0,high,medium,2,2
+astro_086,planetary,Astrophysics > Planetary Science,0.24425965547561646,low,0.0,0.4885193109512329,0.0,low,low,1,2
+astro_086,protoplanetary_disks,Astrophysics > Planetary Science > Planetary Formation > Protoplanetary Disks,0.48335208296775817,high,0.5526942610740662,0.6350876092910767,0.0,high,high,2,2
+astro_086,solar_system,Astrophysics > Planetary Science > Solar System Bodies,0.39053383767604827,low,0.49222490191459656,0.4857327342033386,0.0,medium,low,1,2
+astro_086,super_earths,Astrophysics > Planetary Science > Exoplanets > Super-Earths,0.38041978180408476,low,0.49647417664527893,0.4629550576210022,0.0,medium,low,1,2
+astro_086,migration,Astrophysics > Planetary Science > Planetary Formation > Planetary Migration,0.466211986541748,high,0.5354996919631958,0.6111241579055786,0.0,high,high,1,2
+astro_086,planet_formation,Astrophysics > Planetary Science > Planetary Formation,0.46402463912963865,high,0.5297533869743347,0.6101972460746765,0.0,high,high,1,2
+astro_086,gas_giants,Astrophysics > Planetary Science > Solar System Bodies > Gas Giants,0.2701476216316223,low,0.0,0.5402952432632446,0.0,low,low,1,2
+astro_086,habitable_zone,Astrophysics > Planetary Science > Exoplanets > Habitable Zone Planets,0.41699650585651393,medium,0.4973802864551544,0.5355648398399353,0.0,medium,medium,1,2
+astro_086,hot_jupiters,Astrophysics > Planetary Science > Exoplanets > Hot Jupiters,0.26556363701820374,low,0.0,0.5311272740364075,0.0,low,low,1,2
+astro_086,debris_disks,Astrophysics > Planetary Science > Planetary Formation > Debris Disks,0.26190245151519775,low,0.0,0.5238049030303955,0.0,low,low,1,2
+astro_086,disk_instability,Astrophysics > Planetary Science > Planetary Formation > Gravitational Instability,0.255869597196579,low,0.0,0.511739194393158,0.0,low,low,1,2
+astro_087,galactic_halo,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Halo,0.47475565075874326,high,0.5666704177856445,0.6095090508460999,0.0,high,high,2,2
+astro_087,stellar,Astrophysics > Stellar Physics,0.4028457194566727,medium,0.49465063214302063,0.508901059627533,0.0,medium,medium,1,2
+astro_087,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.42206370234489443,medium,0.5398352742195129,0.520226240158081,0.0,medium,medium,2,2
+astro_087,stellar_rotation,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Rotation,0.40454769134521484,medium,0.516069233417511,0.4994538426399231,0.0,medium,medium,2,2
+astro_087,stellar_winds,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Winds,0.3877949208021164,low,0.48964935541152954,0.48180022835731506,0.0,medium,low,1,2
+astro_087,dm_halos,Astrophysics > Cosmology > Dark Matter > Dark Matter Halos,0.23193535208702087,low,0.0,0.46387070417404175,0.0,low,low,1,2
+astro_087,stellar_mass_loss,Astrophysics > Stellar Physics > Stellar Evolution > Stellar Mass Loss,0.3774744659662247,low,0.49393537640571594,0.4585877060890198,0.0,medium,low,1,2
+astro_087,asymptotic_giants,Astrophysics > Stellar Physics > Stellar Evolution > Asymptotic Giant Branch,0.3939935952425003,medium,0.49537408351898193,0.49076274037361145,0.0,medium,medium,1,2
+astro_087,main_sequence,Astrophysics > Stellar Physics > Stellar Evolution > Main Sequence Evolution,0.39597329199314113,medium,0.5080681443214417,0.48710569739341736,0.0,medium,medium,1,2
+astro_087,core_accretion,Astrophysics > Planetary Science > Planetary Formation > Core Accretion Model,0.23844002187252045,low,0.0,0.4768800437450409,0.0,low,low,1,2
+astro_087,common_envelope,Astrophysics > Stellar Physics > Binary Stars > Common Envelope Evolution,0.2359226495027542,low,0.0,0.4718452990055084,0.0,low,low,1,2
+astro_087,horizontal_branch,Astrophysics > Stellar Physics > Stellar Evolution > Horizontal Branch Stars,0.37771776914596555,low,0.4813791513442993,0.46660804748535156,0.0,medium,low,1,2
+astro_087,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.23187044262886047,low,0.0,0.46374088525772095,0.0,low,low,1,2
+astro_088,hii_regions,Astrophysics > Galactic Astrophysics > Interstellar Medium > HII Regions,0.4238220751285553,high,0.540182888507843,0.5235344171524048,0.0,high,high,1,1
+astro_088,galactic,Astrophysics > Galactic Astrophysics,0.4108006119728088,medium,0.49994003772735596,0.5216372013092041,0.0,medium,medium,1,1
+astro_088,accretion_disks,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Accretion Disk Physics,0.2565729320049286,low,0.0,0.5131458640098572,0.0,low,low,1,1
+astro_088,quasars,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Quasars,0.40210244953632357,medium,0.48706743121147156,0.5119644403457642,0.0,medium,medium,1,1
+astro_088,galactic_disk,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Disk,0.3940709322690964,medium,0.4772469699382782,0.5017936825752258,0.0,medium,medium,1,1
+astro_088,planetary,Astrophysics > Planetary Science,0.24952270090579987,low,0.0,0.49904540181159973,0.0,low,low,1,1
+astro_088,agn,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei,0.24399779736995697,low,0.0,0.48799559473991394,0.0,low,low,1,1
+astro_088,stellar,Astrophysics > Stellar Physics,0.24253828823566437,low,0.0,0.48507657647132874,0.0,low,low,1,1
+astro_088,astro,Astrophysics,0.241323783993721,low,0.0,0.482647567987442,0.0,low,low,1,1
+astro_088,ism,Astrophysics > Galactic Astrophysics > Interstellar Medium,0.3854403287172318,medium,0.4928240478038788,0.47518622875213623,0.0,medium,medium,1,1
+astro_089,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.4056808024644851,medium,0.5364366769790649,0.48949959874153137,0.0,medium,high,2,2
+astro_089,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.4145697742700577,medium,0.48211756348609924,0.5398690104484558,0.0,medium,high,1,2
+astro_089,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.26864105463027954,low,0.0,0.5372821092605591,0.0,low,low,1,2
+astro_089,galactic_halo,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Halo,0.42197763323783877,medium,0.5116389989852905,0.5369718670845032,0.0,medium,high,1,2
+astro_089,galaxy_evolution,Astrophysics > Galactic Astrophysics > Galaxy Evolution,0.25759705901145935,low,0.0,0.5151941180229187,0.0,low,low,1,2
+astro_089,main_sequence,Astrophysics > Stellar Physics > Stellar Evolution > Main Sequence Evolution,0.25743117928504944,low,0.0,0.5148623585700989,0.0,low,low,1,2
+astro_089,stellar_mass_loss,Astrophysics > Stellar Physics > Stellar Evolution > Stellar Mass Loss,0.2482272833585739,low,0.0,0.4964545667171478,0.0,low,low,1,2
+astro_089,galactic_bulge,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Bulge,0.24606086313724518,low,0.0,0.49212172627449036,0.0,low,low,1,2
+astro_089,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.3893394142389297,medium,0.48141786456108093,0.48982810974121094,0.0,medium,medium,1,2
+astro_089,milky_way,Astrophysics > Galactic Astrophysics > Milky Way Structure,0.38943958282470703,medium,0.4821443557739258,0.4895925521850586,0.0,medium,medium,1,2
+astro_090,exoplanets,Astrophysics > Planetary Science > Exoplanets,0.4376985430717468,high,0.5228537321090698,0.5616848468780518,0.0,high,high,1,1
+astro_090,hot_jupiters,Astrophysics > Planetary Science > Exoplanets > Hot Jupiters,0.4286845624446869,high,0.5415886640548706,0.5324159264564514,0.0,high,high,1,1
+astro_090,spectroscopic_binaries,Astrophysics > Stellar Physics > Binary Stars > Spectroscopic Binaries,0.40664854347705837,medium,0.48897960782051086,0.5199093222618103,0.0,medium,medium,1,1
+astro_090,direct_imaging,Astrophysics > Planetary Science > Exoplanets > Direct Imaging,0.257465124130249,low,0.0,0.514930248260498,0.0,low,low,1,1
+astro_090,stellar_atmospheres,Astrophysics > Stellar Physics > Stellar Atmospheres,0.3936466068029404,medium,0.48394086956977844,0.49692869186401367,0.0,medium,medium,1,1
+astro_090,super_earths,Astrophysics > Planetary Science > Exoplanets > Super-Earths,0.24732781946659088,low,0.0,0.49465563893318176,0.0,low,low,1,1
+astro_090,ice_giants,Astrophysics > Planetary Science > Solar System Bodies > Ice Giants,0.3862826436758041,low,0.47176894545555115,0.4895039200782776,0.0,medium,low,1,1
+astro_090,gas_giants,Astrophysics > Planetary Science > Solar System Bodies > Gas Giants,0.3910829842090606,medium,0.48995906114578247,0.48819053173065186,0.0,medium,medium,1,1
+astro_090,spectral_classification,Astrophysics > Stellar Physics > Stellar Atmospheres > Spectral Classification,0.24342739582061768,low,0.0,0.48685479164123535,0.0,low,low,1,1
+astro_090,white_dwarfs,Astrophysics > Stellar Physics > Compact Objects > White Dwarfs,0.24222706258296967,low,0.0,0.48445412516593933,0.0,low,low,1,1
+astro_091,grb,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts,0.4263424694538116,high,0.5175157785415649,0.5421754717826843,0.0,high,high,1,1
+astro_091,xray_transients,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Transients,0.2530078887939453,low,0.0,0.5060157775878906,0.0,low,medium,1,1
+astro_091,high_energy,Astrophysics > High-Energy Astrophysics,0.25022298097610474,low,0.0,0.5004459619522095,0.0,low,medium,1,1
+astro_091,kilonova,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts > Kilonovae,0.24922510981559753,low,0.0,0.49845021963119507,0.0,low,low,1,1
+astro_091,grb_jets,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts > GRB Jet Physics,0.24260249733924866,low,0.0,0.4852049946784973,0.0,low,low,1,1
+astro_091,agn_jets,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Relativistic Jets,0.23249489068984985,low,0.0,0.4649897813796997,0.0,low,low,1,1
+astro_092,hot_jupiters,Astrophysics > Planetary Science > Exoplanets > Hot Jupiters,0.4117663711309433,medium,0.48815932869911194,0.5306371450424194,0.0,medium,high,1,1
+astro_093,cloud_collapse,Astrophysics > Galactic Astrophysics > Star Formation > Cloud Collapse,0.26767200231552124,low,0.0,0.5353440046310425,0.0,low,high,1,1
+astro_093,large_scale_structure,Astrophysics > Cosmology > Large-Scale Structure,0.23679451644420624,low,0.0,0.4735890328884125,0.0,low,medium,1,1
+astro_093,galaxy_clustering,Astrophysics > Cosmology > Large-Scale Structure > Galaxy Clustering,0.23408398032188416,low,0.0,0.4681679606437683,0.0,low,low,1,1
+astro_093,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.2332216501235962,low,0.0,0.4664433002471924,0.0,low,low,1,1
+astro_093,stellar_mass_loss,Astrophysics > Stellar Physics > Stellar Evolution > Stellar Mass Loss,0.23303654789924622,low,0.0,0.46607309579849243,0.0,low,low,1,1
+astro_093,galactic_halo,Astrophysics > Galactic Astrophysics > Milky Way Structure > Galactic Halo,0.23087796568870544,low,0.0,0.4617559313774109,0.0,low,low,1,1
+astro_093,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.2300945371389389,low,0.0,0.4601890742778778,0.0,low,low,1,1
+astro_094,magnetic_fields,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Magnetic Fields,0.45607805252075195,high,0.5772179365158081,0.565825343132019,0.0,high,high,1,2
+astro_094,core_accretion,Astrophysics > Planetary Science > Planetary Formation > Core Accretion Model,0.4385786712169647,high,0.532935380935669,0.5573961138725281,0.0,high,high,1,2
+astro_094,magnetars,Astrophysics > Stellar Physics > Compact Objects > Magnetars,0.41720675230026244,medium,0.5170304179191589,0.5241952538490295,0.0,medium,medium,1,2
+astro_094,magnetic_fields_ism,Astrophysics > Galactic Astrophysics > Interstellar Medium > Interstellar Magnetic Fields,0.41742644906044,medium,0.5256211161613464,0.5194802284240723,0.0,medium,high,1,2
+astro_094,stellar_evolution,Astrophysics > Stellar Physics > Stellar Evolution,0.40956791043281554,medium,0.5164889097213745,0.5092424750328064,0.0,medium,medium,1,2
+astro_094,accretion_disks,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Accretion Disk Physics,0.38906746208667753,medium,0.4820091724395752,0.48892942070961,0.0,medium,medium,1,2
+astro_094,stellar_rotation,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Rotation,0.38491963744163515,low,0.48018890619277954,0.48172593116760254,0.0,medium,low,1,2
+astro_094,stellar_atmospheres,Astrophysics > Stellar Physics > Stellar Atmospheres,0.23543615639209747,low,0.0,0.47087231278419495,0.0,low,low,1,2
+astro_094,stellar,Astrophysics > Stellar Physics,0.3769358158111572,low,0.486110121011734,0.46220555901527405,0.0,medium,low,1,2
+astro_094,main_sequence,Astrophysics > Stellar Physics > Stellar Evolution > Main Sequence Evolution,0.374573802947998,low,0.4805545210838318,0.460814893245697,0.0,low,low,1,2
+astro_094,grb,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts,0.23663173615932465,low,0.0,0.4732634723186493,0.0,low,low,1,2
+astro_094,high_energy,Astrophysics > High-Energy Astrophysics,0.23229274153709412,low,0.0,0.46458548307418823,0.0,low,low,1,2
+astro_095,white_dwarfs,Astrophysics > Stellar Physics > Compact Objects > White Dwarfs,0.41102086305618285,medium,0.49660301208496094,0.5240799188613892,0.0,medium,medium,1,2
+astro_095,binary_stars,Astrophysics > Stellar Physics > Binary Stars,0.4370838165283203,medium,0.5335856676101685,0.5540162324905396,0.0,high,medium,2,2
+astro_095,spectroscopic_binaries,Astrophysics > Stellar Physics > Binary Stars > Spectroscopic Binaries,0.47432373166084285,high,0.5678614377975464,0.607930600643158,0.0,high,high,2,2
+astro_095,direct_imaging,Astrophysics > Planetary Science > Exoplanets > Direct Imaging,0.23077397048473358,low,0.0,0.46154794096946716,0.0,low,low,1,2
+astro_095,x_ray_binaries,Astrophysics > Stellar Physics > Compact Objects > X-Ray Binaries,0.3917266100645065,medium,0.48757949471473694,0.4909055233001709,0.0,medium,medium,2,2
+astro_095,contact_binaries,Astrophysics > Stellar Physics > Binary Stars > Contact Binaries,0.4239933490753174,medium,0.5001530051231384,0.5478948950767517,0.0,high,medium,1,2
+astro_095,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.40771167874336245,medium,0.4925720691680908,0.5198801159858704,0.0,medium,medium,1,2
+astro_095,stellar,Astrophysics > Stellar Physics,0.2569049894809723,low,0.0,0.5138099789619446,0.0,low,low,1,2
+astro_095,star_clusters,Astrophysics > Galactic Astrophysics > Star Formation > Star Cluster Formation,0.25259655714035034,low,0.0,0.5051931142807007,0.0,low,low,1,2
+astro_095,symbiotic_stars,Astrophysics > Stellar Physics > Binary Stars > Symbiotic Stars,0.24698762595653534,low,0.0,0.4939752519130707,0.0,low,low,1,2
+astro_095,star_formation,Astrophysics > Galactic Astrophysics > Star Formation,0.24046608805656433,low,0.0,0.48093217611312866,0.0,low,low,1,2
+astro_095,eclipsing_binaries,Astrophysics > Stellar Physics > Binary Stars > Eclipsing Binaries,0.2389887571334839,low,0.0,0.4779775142669678,0.0,low,low,1,2
+astro_096,blazars,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Blazars,0.45341280698776243,high,0.559645414352417,0.5710383653640747,0.0,high,high,1,2
+astro_096,dark_matter,Astrophysics > Cosmology > Dark Matter,0.2727400064468384,low,0.0,0.5454800128936768,0.0,low,medium,1,2
+astro_096,dm_halos,Astrophysics > Cosmology > Dark Matter > Dark Matter Halos,0.255401611328125,low,0.0,0.51080322265625,0.0,low,low,1,2
+astro_096,wimps,Astrophysics > Cosmology > Dark Matter > Weakly Interacting Massive Particles,0.2521156668663025,low,0.0,0.504231333732605,0.0,low,low,1,2
+astro_096,dm_detection,Astrophysics > Cosmology > Dark Matter > Direct Detection Experiments,0.24732127785682678,low,0.0,0.49464255571365356,0.0,low,low,1,2
+astro_096,dark_energy,Astrophysics > Cosmology > Dark Energy,0.23807644844055176,low,0.0,0.4761528968811035,0.0,low,low,1,2
+astro_096,dm_simulations,Astrophysics > Cosmology > Dark Matter > N-Body Simulations,0.23755770921707153,low,0.0,0.47511541843414307,0.0,low,low,1,2
+astro_096,cosmological_constant,Astrophysics > Cosmology > Dark Energy > Cosmological Constant,0.23029208183288574,low,0.0,0.4605841636657715,0.0,low,low,1,2
+astro_098,grb,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts,0.4455085575580597,high,0.5446896553039551,0.5642033219337463,0.0,high,high,1,2
+astro_098,neutron_stars,Astrophysics > High-Energy Astrophysics > Neutron Stars,0.4564014732837677,high,0.5728099942207336,0.5691169500350952,0.0,high,high,2,2
+astro_098,millisecond_pulsars,Astrophysics > High-Energy Astrophysics > Neutron Stars > Millisecond Pulsars,0.4340560793876648,medium,0.5396170616149902,0.5443419218063354,0.0,high,medium,1,2
+astro_098,xray_transients,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Transients,0.42385209202766416,medium,0.5127133131027222,0.5400761961936951,0.0,high,medium,1,2
+astro_098,xray_astronomy,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy,0.40722825527191164,medium,0.503339946269989,0.5124525427818298,0.0,medium,medium,1,2
+astro_098,glitches,Astrophysics > High-Energy Astrophysics > Neutron Stars > Pulsar Glitches,0.40369006991386414,low,0.5026468634605408,0.5057920217514038,0.0,medium,low,1,2
+astro_098,xray_spectroscopy,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Spectroscopy,0.2515769302845001,low,0.0,0.5031538605690002,0.0,low,low,1,2
+astro_098,xray_timing,Astrophysics > High-Energy Astrophysics > X-Ray Astronomy > X-Ray Timing,0.25124701857566833,low,0.0,0.5024940371513367,0.0,low,low,1,2
+astro_098,grb_afterglows,Astrophysics > High-Energy Astrophysics > Gamma-Ray Bursts > GRB Afterglows,0.25106653571128845,low,0.0,0.5021330714225769,0.0,low,low,1,2
+astro_098,s_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Slow Neutron Capture,0.4577318668365479,high,0.5482943654060364,0.5864871144294739,0.0,high,high,2,2
+astro_098,neutron_star_physics,Astrophysics > Stellar Physics > Compact Objects > Neutron Star Physics,0.4499045550823212,high,0.5150841474533081,0.5907586216926575,0.0,high,high,1,2
+astro_098,ns_equation_state,Astrophysics > High-Energy Astrophysics > Neutron Stars > Equation of State,0.44794431924819944,high,0.5167685151100159,0.5858275294303894,0.0,high,high,1,2
+astro_098,r_process,Astrophysics > Stellar Physics > Stellar Nucleosynthesis > Rapid Neutron Capture,0.44302360415458675,medium,0.5385407209396362,0.5629227757453918,0.0,high,medium,1,2
+astro_098,red_giants,Astrophysics > Stellar Physics > Stellar Evolution > Red Giant Branch,0.25535380840301514,low,0.0,0.5107076168060303,0.0,low,low,1,2
+astro_098,nucleosynthesis,Astrophysics > Stellar Physics > Stellar Nucleosynthesis,0.25349849462509155,low,0.0,0.5069969892501831,0.0,low,low,1,2
+astro_098,ns_mergers,Astrophysics > High-Energy Astrophysics > Neutron Stars > Neutron Star Mergers,0.24456943571567535,low,0.0,0.4891388714313507,0.0,low,low,1,2
+astro_098,ns_cooling,Astrophysics > High-Energy Astrophysics > Neutron Stars > Neutron Star Cooling,0.24201428890228271,low,0.0,0.48402857780456543,0.0,low,low,1,2
+astro_098,binary_stars,Astrophysics > Stellar Physics > Binary Stars,0.24195802211761475,low,0.0,0.4839160442352295,0.0,low,low,1,2
+astro_099,white_dwarf_formation,Astrophysics > Stellar Physics > Stellar Evolution > White Dwarf Formation,0.49986399412155147,high,0.6081556677818298,0.6348345875740051,0.0,high,high,2,2
+astro_099,white_dwarfs,Astrophysics > Stellar Physics > Compact Objects > White Dwarfs,0.45494296550750735,medium,0.5527545809745789,0.5782331824302673,0.0,high,medium,2,2
+astro_099,spectroscopic_binaries,Astrophysics > Stellar Physics > Binary Stars > Spectroscopic Binaries,0.42422410249710085,medium,0.5344797968864441,0.5277603268623352,0.0,high,medium,1,2
+astro_099,x_ray_binaries,Astrophysics > Stellar Physics > Compact Objects > X-Ray Binaries,0.23505361378192902,low,0.0,0.47010722756385803,0.0,low,low,1,2
+astro_099,magnetic_fields,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Magnetic Fields,0.41830786466598513,medium,0.4750465154647827,0.5515878200531006,0.0,medium,medium,1,2
+astro_099,magnetic_fields_ism,Astrophysics > Galactic Astrophysics > Interstellar Medium > Interstellar Magnetic Fields,0.24081186950206757,low,0.0,0.48162373900413513,0.0,low,low,1,2
+astro_099,stellar,Astrophysics > Stellar Physics,0.23281128704547882,low,0.0,0.46562257409095764,0.0,low,low,1,2
+astro_099,astro,Astrophysics,0.232449471950531,low,0.0,0.464898943901062,0.0,low,low,1,2
+astro_099,stellar_rotation,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Rotation,0.2306063026189804,low,0.0,0.4612126052379608,0.0,low,low,1,2
+astro_099,stellar_winds,Astrophysics > Stellar Physics > Stellar Atmospheres > Stellar Winds,0.23055791854858398,low,0.0,0.46111583709716797,0.0,low,low,1,2
+astro_099,magnetars,Astrophysics > Stellar Physics > Compact Objects > Magnetars,0.22994010150432587,low,0.0,0.45988020300865173,0.0,low,low,1,2
+astro_100,mass_metallicity,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Mass-Metallicity Relation,0.4767475724220276,high,0.5983522534370422,0.5944837927818298,0.0,high,high,2,2
+astro_100,cmb,Astrophysics > Cosmology > Cosmic Microwave Background,0.23031139373779297,low,0.0,0.46062278747558594,0.0,low,low,1,2
+astro_100,stellar_streams,Astrophysics > Galactic Astrophysics > Milky Way Structure > Stellar Streams,0.41140280365943904,medium,0.5082874894142151,0.5178331136703491,0.0,medium,medium,1,2
+astro_100,quenching,Astrophysics > Galactic Astrophysics > Galaxy Evolution > Star Formation Quenching,0.24830284714698792,low,0.0,0.49660569429397583,0.0,low,low,1,2
+astro_100,quasars,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Quasars,0.23389503359794617,low,0.0,0.46779006719589233,0.0,low,low,1,2
+astro_100,accretion_disks,Astrophysics > Galactic Astrophysics > Active Galactic Nuclei > Accretion Disk Physics,0.2330504208803177,low,0.0,0.4661008417606354,0.0,low,low,1,2
+astro_100,cosmic_rays_ism,Astrophysics > Galactic Astrophysics > Interstellar Medium > Cosmic Ray Interactions,0.37788790166378017,medium,0.4936456084251404,0.4595884382724762,0.0,medium,medium,1,2

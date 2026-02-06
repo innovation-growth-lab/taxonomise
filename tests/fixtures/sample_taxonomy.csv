@@ -1,0 +1,8 @@
+id,label,parent_id,description
+cs,Computer Science,,Study of computation and information
+ai,Artificial Intelligence,cs,Machines that can perform tasks requiring human intelligence
+ml,Machine Learning,ai,Systems that learn from data
+physics,Physics,,Study of matter and energy
+quantum,Quantum Physics,physics,Study of quantum mechanical phenomena
+env,Environmental Science,,Study of the environment
+climate,Climate Science,env,Study of climate patterns and change
